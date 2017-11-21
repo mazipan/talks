@@ -1,6 +1,7 @@
 # talks
 List of Irfan Maulana's Talk Histories
 
++ October 28, 2017 - IT Fest UNJ 2017 at UNJ - Jakarta
 + August 29, 2017 - BandungJS Meetup #5 at Eduplex - Bandung
 + July 08, 2017 - Google Mobile Web Hackaton at Google Indonesia Office - Jakarta
 + June 17, 2017 - UNSADA - DevTalk2 at Universitas Darma Persada - Jakarta
