@@ -1,6 +1,6 @@
 # talks
 
-List of all Irfan Maulana's talks :
+:microphone: List of all Irfan Maulana's talks :
 
 + **October 28, 2017** - IT Fest UNJ 2017 at UNJ - Jakarta ([slide](https://www.slideshare.net/IrfanMaulana21/programmer-in-startup-era))
 + **August 29, 2017** - BandungJS Meetup #5 at Eduplex - Bandung ([slide](https://www.slideshare.net/IrfanMaulana21/bliblidotcom-evolusi-frontend-development-di-bliblidotcom))
