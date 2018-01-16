@@ -1,6 +1,10 @@
-# talks
+# :microphone: Talks
 
-:microphone: List of all Irfan Maulana's talks :
+In the last few years, I have some presentations stage, mostly in tecnical area. I talk about *Javascript*, *HTML*, *CSS*, Web Development, Front End Engineering, etc. I also talk about some of my open source project, You can check my open source work [here](https://github.com/mazipan/project-catalog).
+
+Check some of the highlights or scroll further to see the complete list.
+
+## List of all Irfan Maulana's talks :
 
 + **October 28, 2017** - IT Fest UNJ 2017 at UNJ - Jakarta ([slide](https://www.slideshare.net/IrfanMaulana21/programmer-in-startup-era))
 + **August 29, 2017** - BandungJS Meetup #5 at Eduplex - Bandung ([slide](https://www.slideshare.net/IrfanMaulana21/bliblidotcom-evolusi-frontend-development-di-bliblidotcom))
