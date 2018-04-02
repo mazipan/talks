@@ -16,7 +16,7 @@ Check some of the highlights or scroll further to see the complete list.
 
 + **March 31, 2018** - Seminar Modern Web - Lets Move to Modern Web with PWA at Unisbank - Semarang - (*Modern Web - An Introduction* - [slide here](https://speakerdeck.com/mazipan/modern-web-an-introduction))
 + **January 27, 2018** - Facebook DevC Jakarta - KICK START 2018 - Big Startup Secrets at JDV Menara Multimedia - Jakarta - (*Unit Testing for Frontend Code at Blibli.com* - [slide here](https://www.slideshare.net/IrfanMaulana21/unit-testing-for-frontend-code-at-bliblicom))
-+ **October 28, 2017** - IT Fest UNJ 2017 at UNJ - Jakarta (*Programmer In Startup Era* - [slide here](https://www.slideshare.net/IrfanMaulana21/programmer-in-startup-era))
++ **October 28, 2017** - [IT Fest UNJ 2017](https://www.facebook.com/itfestunj/posts/355629694875209) at UNJ - Jakarta (*Programmer In Startup Era* - [slide here](https://www.slideshare.net/IrfanMaulana21/programmer-in-startup-era))
 + **August 29, 2017** - [BandungJS Meetup #5](https://www.meetup.com/BandungJS/events/242113213/) at Eduplex - Bandung (*Evolusi Frontend Development di Blibli.com* - [slide here](https://www.slideshare.net/IrfanMaulana21/bliblidotcom-evolusi-frontend-development-di-bliblidotcom))
 + **July 08, 2017** - Google Mobile Web Hackaton at Google Indonesia Office - Jakarta (*AMP And PWA In Blibli.com* - [slide here](https://www.slideshare.net/IrfanMaulana21/bliblidotcom-amp-and-pwa))
 + **June 17, 2017** - UNSADA - [DevTalk2](https://www.codepolitan.com/event/himifda-developer-talk-2-593a5ac559c8f) at Universitas Darma Persada - Jakarta (*Angular - The Return Of The King* - [slide here](https://www.slideshare.net/IrfanMaulana21/angular-the-return-of-the-king))
