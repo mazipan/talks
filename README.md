@@ -28,7 +28,7 @@ Check some of the highlights or scroll further to see the complete list.
 + **Mar 26, 2016** - [Php Indonesia Technology Update And Trend 2016 - II](https://www.codepolitan.com/tambah-pengetahuan-tren-teknologimu-terbaru-bersama-php-indonesia) at Microsoft Indonesia (*NodeJS Web Development* - [slide here](https://www.slideshare.net/IrfanMaulana21/php-indonesia-nodejs-web-development))
 + **Feb 29, 2016** - Blibli Brown Bag at Blibli.com Office Slipi (*The Other Side of Javascript* - [slide here](https://www.slideshare.net/IrfanMaulana21/blibli-brown-bag-nodejs-the-other-side-of-javascript-58692089))
 
-If you would like me to speak at your event, feel free to :phone: [contact me](#contact-me) and I will be happy to help (assuming there is no conflict with my other commitments). Note that I do not charge a speaking fee for developer conferences, meetups, tech talks, and other similar non-commercial events.
+If you would like me to speak at your event, feel free to :phone: [contact me](#contact-me) and I will be happy to help.
 
 ## Contact Me
 
