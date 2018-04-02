@@ -24,7 +24,7 @@ Check some of the highlights or scroll further to see the complete list.
 + **May 3, 2017** - SML Techno Corner at SML Technologies (*How to Become Rockstar Programmer* - [slide here](https://www.slideshare.net/IrfanMaulana21/how-to-become-rockstar-programmer))
 + **Feb 25, 2017** - Surabaya Developer Day 2017 at Dyandra Convention Center Surabaya (*Architecting Scalable CSS* - [slide here](https://www.slideshare.net/IrfanMaulana21/php-indonesia-x-bliblidotcom-architecting-scalable-css))
 + **Jul 30, 2016** - Female Geek - Launching Sister to Sister Program at Microsoft Indonesia (*Understanding UI/UX from Developer Side* - [slide here](https://www.slideshare.net/IrfanMaulana21/php-indonesia-understanding-ui-ux-from-developer-side))
-+ **Apr 5, 2016** - JakartaJS Meetup April 2016 at Bukalapak.com (*How I Learn Javascript from Basic* - [slide here](https://www.slideshare.net/IrfanMaulana21/jakartajs-how-i-learn-javascript-from-basic))
++ **Apr 5, 2016** - [JakartaJS Meetup April 2016](https://www.meetup.com/JakartaJS/events/229783425/) at Bukalapak.com (*How I Learn Javascript from Basic* - [slide here](https://www.slideshare.net/IrfanMaulana21/jakartajs-how-i-learn-javascript-from-basic))
 + **Mar 26, 2016** - [Php Indonesia Technology Update And Trend 2016 - II](https://www.codepolitan.com/tambah-pengetahuan-tren-teknologimu-terbaru-bersama-php-indonesia) at Microsoft Indonesia (*NodeJS Web Development* - [slide here](https://www.slideshare.net/IrfanMaulana21/php-indonesia-nodejs-web-development))
 + **Feb 29, 2016** - Blibli Brown Bag at Blibli.com Office Slipi (*The Other Side of Javascript* - [slide here](https://www.slideshare.net/IrfanMaulana21/blibli-brown-bag-nodejs-the-other-side-of-javascript-58692089))
 
