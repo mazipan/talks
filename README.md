@@ -10,7 +10,7 @@ I code *HTML*, *CSS*, and *Javascript* with the latest cool technology.
 
 In the last few years, I have some presentations stage, mostly in tecnical area. I talk about *Javascript*, *HTML*, *CSS*, Web Development, Front End Engineering, etc. I also talk about some of my open source project, You can check my open source work [here](https://github.com/mazipan/project-catalog).
 
-## List of all Irfan Maulana's talks :
+## List of all my talks :
 
 + **March 31, 2018** - [Seminar Modern Web - Lets Move to Modern Web with PWA](https://www.instagram.com/p/BgSk34Hgw2V/) at Unisbank - Semarang - (*Modern Web - An Introduction* - [slide here](https://speakerdeck.com/mazipan/modern-web-an-introduction))
 + **January 27, 2018** - [Facebook DevC Jakarta - KICK START 2018](https://www.facebook.com/events/405772536529525/) - Big Startup Secrets at JDV Menara Multimedia - Jakarta - (*Unit Testing for Frontend Code at Blibli.com* - [slide here](https://www.slideshare.net/IrfanMaulana21/unit-testing-for-frontend-code-at-bliblicom))
