@@ -8,7 +8,7 @@ I code *HTML*, *CSS*, and *Javascript* with the latest cool technology.
 
 ![Irfan Maulana](https://avatars2.githubusercontent.com/u/7221389?s=200&v=4)
 
-In the last few years, I have some presentations stage, mostly in tecnical area. I talk about *Javascript*, *HTML*, *CSS*, Web Development, Front End Engineering, etc. I also talk about some of my open source project, You can check my open source work [here](https://github.com/mazipan/project-catalog).
+In the last few years, I have some presentations stage, mostly in tecnical area. I talk about Front End Development, etc. I also talk about some of my open source project, You can check my open source work [here](https://github.com/mazipan/project-catalog).
 
 ## List of all my talks :
 
