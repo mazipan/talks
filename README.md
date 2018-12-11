@@ -12,6 +12,7 @@ In the last few years, I have some presentations stage, mostly in tecnical area.
 
 ## List of all my talks :
 
++ **December 01, 2018** - UNSADA - [DevTalk4](https://www.instagram.com/p/Bq4Rp3oAh6T/) at Universitas Darma Persada - Jakarta (*PWA - An Introduction* - [slide here](https://speakerdeck.com/mazipan/pwa-an-introduction))
 + **March 31, 2018** - [Seminar Modern Web - Lets Move to Modern Web with PWA](https://www.instagram.com/p/BgSk34Hgw2V/) at Unisbank - Semarang - (*Modern Web - An Introduction* - [slide here](https://speakerdeck.com/mazipan/modern-web-an-introduction))
 + **January 27, 2018** - [Facebook DevC Jakarta - KICK START 2018](https://www.facebook.com/events/405772536529525/) - Big Startup Secrets at JDV Menara Multimedia - Jakarta - (*Unit Testing for Frontend Code at Blibli.com* - [slide here](https://www.slideshare.net/IrfanMaulana21/unit-testing-for-frontend-code-at-bliblicom))
 + **October 28, 2017** - [IT Fest UNJ 2017](https://www.facebook.com/itfestunj/posts/355629694875209) at UNJ - Jakarta (*Programmer In Startup Era* - [slide here](https://www.slideshare.net/IrfanMaulana21/programmer-in-startup-era))
