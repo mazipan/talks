@@ -6,6 +6,8 @@ Hi, I am **Irfan Maulana** :sunglasses:.
 I build website with :heart:, I'd like start all the things from scratch.
 I code *HTML*, *CSS*, and *Javascript* with the latest cool technology.
 
+You can see my complete CV in my Linkedin Profile: [https://www.linkedin.com/in/mazipan/](https://www.linkedin.com/in/mazipan/)
+
 ![Irfan Maulana](https://avatars2.githubusercontent.com/u/7221389?s=200&v=4)
 
 In the last few years, I have some presentations stage, mostly in tecnical area. I talk about Front End Development, etc. I also talk about some of my open source project, You can check my open source work [here](https://github.com/mazipan/project-catalog).
