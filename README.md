@@ -32,5 +32,5 @@ If you would like me to speak at your event, feel free to :phone: [contact me](#
 ## Contact Me
 
 + :e-mail: Email : [mazipanneh@gmail.com](mailto:mazipanneh.com)
-+ :speech_balloon: Telegram : [@irfanmaulana](https://t.me/irfanmaulana)
++ :speech_balloon: Telegram : [@mazipan](https://t.me/mazipan)
 + :bird: Twitter : [@Maz_Ipan](https://twitter.com/Maz_Ipan)
