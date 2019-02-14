@@ -1,14 +1,12 @@
 # :microphone: Talks
 
-Hi, I am **Irfan Maulana** :sunglasses:. 
+Hi, I am **Irfan Maulana** :sunglasses:.
 
 *Software Engineer* that specialize in frontend side.
 I build website with :heart:, I'd like start all the things from scratch.
 I code *HTML*, *CSS*, and *Javascript* with the latest cool technology.
 
 You can see my complete CV in my Linkedin Profile: [https://www.linkedin.com/in/mazipan/](https://www.linkedin.com/in/mazipan/)
-
-![Irfan Maulana](https://avatars2.githubusercontent.com/u/7221389?s=200&v=4)
 
 In the last few years, I have some presentations stage, mostly in tecnical area. I talk about Front End Development, etc. I also talk about some of my open source project, You can check my open source work [here](https://github.com/mazipan/project-catalog).
 
@@ -30,6 +28,11 @@ In the last few years, I have some presentations stage, mostly in tecnical area.
 + **Feb 29, 2016** - Blibli Brown Bag at Blibli.com Office Slipi (*The Other Side of Javascript* - [slide here](https://www.slideshare.net/IrfanMaulana21/blibli-brown-bag-nodejs-the-other-side-of-javascript-58692089))
 
 If you would like me to speak at your event, feel free to :phone: [contact me](#contact-me) and I will be happy to help.
+
+## FAQ
+
++ **Q:** Hey, I need your photo for banner. Where can I get it?
++ **A:** You can download my photo profile [here](photo/profile.jpeg)
 
 ## Contact Me
 
