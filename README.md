@@ -10,8 +10,10 @@ You can see my complete CV in my Linkedin Profile: [https://www.linkedin.com/in/
 
 In the last few years, I have some presentations stage, mostly in tecnical area. I talk about Front End Development, etc. I also talk about some of my open source project, You can check my open source work [here](https://github.com/mazipan/project-catalog).
 
-## List of all my talks :
+## List of all talks :
 
++ **January 24, 2019** - [#46 JakartaJS Meetup, Talk Show: Career Path As Software Engineers](https://www.meetup.com/JakartaJS/events/258086815/) at Telkom Indonesia, Tbk
++ **December 16, 2018** - [PHPID National Meetup 2018](https://www.instagram.com/p/BrXLXtChJSy/) at Villa Kembar Lembang Asri - Bandung (*PWA - An Introduction* - [slide here](https://speakerdeck.com/mazipan/pwa-an-introduction))
 + **December 01, 2018** - UNSADA - [DevTalk4](https://www.instagram.com/p/Bq4Rp3oAh6T/) at Universitas Darma Persada - Jakarta (*PWA - An Introduction* - [slide here](https://speakerdeck.com/mazipan/pwa-an-introduction))
 + **March 31, 2018** - [Seminar Modern Web - Lets Move to Modern Web with PWA](https://www.instagram.com/p/BgSk34Hgw2V/) at Unisbank - Semarang - (*Modern Web - An Introduction* - [slide here](https://speakerdeck.com/mazipan/modern-web-an-introduction))
 + **January 27, 2018** - [Facebook DevC Jakarta - KICK START 2018](https://www.facebook.com/events/405772536529525/) - Big Startup Secrets at JDV Menara Multimedia - Jakarta - (*Unit Testing for Frontend Code at Blibli.com* - [slide here](https://www.slideshare.net/IrfanMaulana21/unit-testing-for-frontend-code-at-bliblicom))
@@ -23,7 +25,7 @@ In the last few years, I have some presentations stage, mostly in tecnical area.
 + **May 3, 2017** - SML Techno Corner at SML Technologies (*How to Become Rockstar Programmer* - [slide here](https://www.slideshare.net/IrfanMaulana21/how-to-become-rockstar-programmer))
 + **Feb 25, 2017** - [Surabaya Developer Day 2017](http://eventsurabaya.net/event/surabaya-developer-day-2017/) at Dyandra Convention Center Surabaya (*Architecting Scalable CSS* - [slide here](https://www.slideshare.net/IrfanMaulana21/php-indonesia-x-bliblidotcom-architecting-scalable-css))
 + **Jul 30, 2016** - Female Geek - [Launching Sister to Sister Program](https://www.codepolitan.com/femalegeek-php-indonesia-launching-program-sister-to-sisters) at Microsoft Indonesia (*Understanding UI/UX from Developer Side* - [slide here](https://www.slideshare.net/IrfanMaulana21/php-indonesia-understanding-ui-ux-from-developer-side)) - ([other article](https://id.techinasia.com/tip-membuat-tampilan-antar-muka-yang-nyaman))
-+ **Apr 5, 2016** - [JakartaJS Meetup April 2016](https://www.meetup.com/JakartaJS/events/229783425/) at Bukalapak.com (*How I Learn Javascript from Basic* - [slide here](https://www.slideshare.net/IrfanMaulana21/jakartajs-how-i-learn-javascript-from-basic))
++ **Apr 5, 2016** - JakartaJS - [April Meetup : React.js Fundamentals & Learning JavaScript](https://www.meetup.com/JakartaJS/events/229783425/) at Bukalapak.com (*How I Learn Javascript from Basic* - [slide here](https://www.slideshare.net/IrfanMaulana21/jakartajs-how-i-learn-javascript-from-basic))
 + **Mar 26, 2016** - [Php Indonesia Technology Update And Trend 2016 - II](https://www.codepolitan.com/tambah-pengetahuan-tren-teknologimu-terbaru-bersama-php-indonesia) at Microsoft Indonesia (*NodeJS Web Development* - [slide here](https://www.slideshare.net/IrfanMaulana21/php-indonesia-nodejs-web-development))
 + **Feb 29, 2016** - Blibli Brown Bag at Blibli.com Office Slipi (*The Other Side of Javascript* - [slide here](https://www.slideshare.net/IrfanMaulana21/blibli-brown-bag-nodejs-the-other-side-of-javascript-58692089))
 
