@@ -35,7 +35,7 @@ If you would like me to speak at your event, feel free to :phone: [contact me](#
 ## FAQ
 
 + **Q:** Hey, I need your photo for banner promotions. Where can I get it??
-+ **A:** You can download my photo profile [here](photo/profile.jpeg)
++ **A:** You can download my photo profile [here](photo/)
 
 + **Q:** Can I get the slides from your presentation?
 + **A:** Sure, most of my slides are available in [speakerdeck/mazipan](https://speakerdeck.com/mazipan)
