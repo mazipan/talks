@@ -2,17 +2,21 @@
 
 Hi, I am **Irfan Maulana** :sunglasses:.
 
-*Software Engineer* that specialize in frontend side.
-I build website with :heart:, I'd like start all the things from scratch.
-I code *HTML*, *CSS*, and *Javascript* with the latest cool technology.
+Principal Engineer in Tokopedia. Former Software Engineer in Bizzy, Blibli.com and SML Technologies.
+
+An experienced software engineer especially in frontend side.
+Having deep knowledge in HTML, CSS (with its pre-processor) and JavaScript with the various framework. Write good quality, well tested, and fast delivered code.
+Experience in architecting frontend codebase.
+
+A well-known figure in the programming community, open-source creator, and writer for many technical articles.
 
 You can see my complete CV in my Linkedin Profile: [https://www.linkedin.com/in/mazipan/](https://www.linkedin.com/in/mazipan/)
 
-In the last few years, I have some presentations stage, mostly in tecnical area. I talk about Front End Development, etc. I also talk about some of my open source project, You can check my open source work [here](https://github.com/mazipan/project-catalog).
+In the last few years, I have some presentations stage, mostly in tecnical area. You can check my open source work [here](https://github.com/mazipan/project-catalog).
 
 ## List of all talks :
 
-+ **July 21, 2019** - [Seminar Desain & Workshop IT](https://www.instagram.com/p/Bz9ct24ForG/) at STIKOM CKI (*Create A Delightful Website With Good DX*)
++ **July 21, 2019** - [Seminar Desain & Workshop IT](https://www.instagram.com/p/Bz9ct24ForG/) at STIKOM CKI (*Create A Delightful Website With Good DX* - [slide here](https://speakerdeck.com/mazipan/create-a-delightful-web-with-good-dx))
 + **January 24, 2019** - [#46 JakartaJS Meetup, Talk Show: Career Path As Software Engineers](https://www.meetup.com/JakartaJS/events/258086815/) at Telkom Indonesia, Tbk
 + **December 16, 2018** - [PHPID National Meetup 2018](https://www.instagram.com/p/BrXLXtChJSy/) at Villa Kembar Lembang Asri - Bandung (*PWA - An Introduction* - [slide here](https://speakerdeck.com/mazipan/pwa-an-introduction))
 + **December 01, 2018** - UNSADA - [DevTalk4](https://www.instagram.com/p/Bq4Rp3oAh6T/) at Universitas Darma Persada - Jakarta (*PWA - An Introduction* - [slide here](https://speakerdeck.com/mazipan/pwa-an-introduction))
