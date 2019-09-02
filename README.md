@@ -16,6 +16,7 @@ In the last few years, I have some presentations stage, mostly in tecnical area.
 
 ## List of all talks :
 
++ **August 31, 2019** - [DevC Jakarta Build Day 2019](https://jkt23-jakarta-buildday-2019.splashthat.com/) at Shopee Indonesia Office (*Lesson Learned Scaling React in Tokopedia*)
 + **July 21, 2019** - [Seminar Desain & Workshop IT](https://www.instagram.com/p/Bz9ct24ForG/) at STIKOM CKI (*Create A Delightful Website With Good DX* - [slide here](https://speakerdeck.com/mazipan/create-a-delightful-web-with-good-dx))
 + **January 24, 2019** - [#46 JakartaJS Meetup, Talk Show: Career Path As Software Engineers](https://www.meetup.com/JakartaJS/events/258086815/) at Telkom Indonesia, Tbk
 + **December 16, 2018** - [PHPID National Meetup 2018](https://www.instagram.com/p/BrXLXtChJSy/) at Villa Kembar Lembang Asri - Bandung (*PWA - An Introduction* - [slide here](https://speakerdeck.com/mazipan/pwa-an-introduction))
