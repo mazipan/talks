@@ -61,7 +61,7 @@ If you would like me to speak at your event, feel free to :phone: [contact me](#
 
 ## Contact Me
 
-+ 📧 Email : [mazipanneh@gmail.com](mailto:mazipanneh.com)
++ 📧 Email : [mazipanneh@gmail.com](mailto:mazipanneh@gmail.com)
 + 💬 Telegram : [@mazipan](https://t.me/mazipan)
 + 🐦 Twitter : [@Maz_Ipan](https://twitter.com/Maz_Ipan)
 + 🎭 Facebook: [@mazipanneh](https://www.facebook.com/mazipanneh)
