@@ -65,3 +65,4 @@ If you would like me to speak at your event, feel free to :phone: [contact me](#
 + 💬 Telegram : [@mazipan](https://t.me/mazipan)
 + 🐦 Twitter : [@Maz_Ipan](https://twitter.com/Maz_Ipan)
 + 🎭 Facebook: [@mazipanneh](https://www.facebook.com/mazipanneh)
++ 📸 Instagram: [@maz_ipan](https://www.instagram.com/maz_ipan/)
