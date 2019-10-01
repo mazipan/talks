@@ -21,12 +21,70 @@
   ],
   "2017": [
     {
-      "date": "",
-      "event": "",
-      "place": "",
-      "topic": "",
-      "slide": "",
+      "date": "October 28, 2017",
+      "event": "IT Fest UNJ 2017",
+      "place": "UNJ - Jakarta",
+      "topic": "Programmer In Startup Era",
+      "slide": "https://www.slideshare.net/IrfanMaulana21/programmer-in-startup-era",
+      "link": [
+        "https://www.facebook.com/itfestunj/posts/355629694875209"
+      ]
+    },
+    {
+      "date": "August 29, 2017",
+      "event": "BandungJS Meetup #5",
+      "place": "Eduplex - Bandung",
+      "topic": "Evolusi Frontend Development di Blibli.com",
+      "slide": "https://www.slideshare.net/IrfanMaulana21/bliblidotcom-evolusi-frontend-development-di-bliblidotcom",
+      "link": [
+        "https://www.meetup.com/BandungJS/events/242113213/"
+      ]
+    },
+    {
+      "date": "July 08, 2017",
+      "event": "Google Mobile Web Hackaton",
+      "place": "Google Indonesia Office - Jakarta",
+      "topic": "AMP And PWA In Blibli.com",
+      "slide": "https://www.slideshare.net/IrfanMaulana21/bliblidotcom-amp-and-pwa",
       "link": []
+    },
+    {
+      "date": "June 17, 2017",
+      "event": "UNSADA - DevTalk2",
+      "place": "Universitas Darma Persada - Jakarta",
+      "topic": "Angular - The Return Of The King",
+      "slide": "https://www.slideshare.net/IrfanMaulana21/angular-the-return-of-the-king",
+      "link": [
+        "https://www.codepolitan.com/event/himifda-developer-talk-2-593a5ac559c8f"
+      ]
+    },
+    {
+      "date": "May 10, 2017",
+      "event": "UNTAG - Seminar Teknologi - Technofest 2017",
+      "place": "UNTAG Surabaya",
+      "topic": "How to Become Rockstar Programmer",
+      "slide": "https://www.slideshare.net/IrfanMaulana21/how-to-become-rockstar-programmer",
+      "link": [
+        "https://www.codepolitan.com/technofest-2017-58fb1d1220b77"
+      ]
+    },
+    {
+      "date": "May 3, 2017",
+      "event": "SML Techno Corner",
+      "place": "SML Technologies",
+      "topic": "How to Become Rockstar Programmer",
+      "slide": "https://www.slideshare.net/IrfanMaulana21/how-to-become-rockstar-programmer",
+      "link": []
+    },
+    {
+      "date": "Feb 25, 2017",
+      "event": "Surabaya Developer Day 2017",
+      "place": "Dyandra Convention Center Surabaya",
+      "topic": "Architecting Scalable CSS",
+      "slide": "https://www.slideshare.net/IrfanMaulana21/php-indonesia-x-bliblidotcom-architecting-scalable-css",
+      "link": [
+        "http://eventsurabaya.net/event/surabaya-developer-day-2017/"
+      ]
     }
   ],
   "2016": [
