@@ -1,9 +1,39 @@
 {
   "2019": [
     {
-      "date": "",
-      "event": "",
-      "place": "",
+      "date": "Sept 08, 2019",
+      "event": "Tech A Break x Bali.js x GDG Bali",
+      "place": "STMIK Primakara, Bali",
+      "topic": "Build Scalable And Performant Mobile Web at Tokopedia",
+      "slide": "",
+      "link": [
+        "https://www.instagram.com/p/B2D68hrndsC/"
+      ]
+    },
+    {
+      "date": "August 31, 2019",
+      "event": "DevC Jakarta Build Day 2019",
+      "place": "Shopee Indonesia Office",
+      "topic": "Lesson Learned Scaling React in Tokopedia",
+      "slide": "https://speakerdeck.com/mazipan/create-a-delightful-web-with-good-dx",
+      "link": [
+        "https://jkt23-jakarta-buildday-2019.splashthat.com/"
+      ]
+    },
+    {
+      "date": "July 21, 2019",
+      "event": "JakartaJS Meetup",
+      "place": "STIKOM CKI",
+      "topic": "Create A Delightful Website With Good DX",
+      "slide": "https://speakerdeck.com/mazipan/create-a-delightful-web-with-good-dx",
+      "link": [
+        "https://www.instagram.com/p/Bz9ct24ForG/"
+      ]
+    },
+    {
+      "date": "January 24, 2019",
+      "event": "JakartaJS Meetup, Talk Show: Career Path As Software Engineers",
+      "place": "Telkom Indonesia, Tbk",
       "topic": "",
       "slide": "",
       "link": []
