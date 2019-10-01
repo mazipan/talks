@@ -1,9 +1,39 @@
 {
   "2019": [
     {
-      "date": "",
-      "event": "",
-      "place": "",
+      "date": "Sept 08, 2019",
+      "event": "Tech A Break x Bali.js x GDG Bali",
+      "place": "STMIK Primakara, Bali",
+      "topic": "Build Scalable And Performant Mobile Web at Tokopedia",
+      "slide": "",
+      "link": [
+        "https://www.instagram.com/p/B2D68hrndsC/"
+      ]
+    },
+    {
+      "date": "August 31, 2019",
+      "event": "DevC Jakarta Build Day 2019",
+      "place": "Shopee Indonesia Office",
+      "topic": "Lesson Learned Scaling React in Tokopedia",
+      "slide": "https://speakerdeck.com/mazipan/create-a-delightful-web-with-good-dx",
+      "link": [
+        "https://jkt23-jakarta-buildday-2019.splashthat.com/"
+      ]
+    },
+    {
+      "date": "July 21, 2019",
+      "event": "JakartaJS Meetup",
+      "place": "STIKOM CKI",
+      "topic": "Create A Delightful Website With Good DX",
+      "slide": "https://speakerdeck.com/mazipan/create-a-delightful-web-with-good-dx",
+      "link": [
+        "https://www.instagram.com/p/Bz9ct24ForG/"
+      ]
+    },
+    {
+      "date": "January 24, 2019",
+      "event": "JakartaJS Meetup, Talk Show: Career Path As Software Engineers",
+      "place": "Telkom Indonesia, Tbk",
       "topic": "",
       "slide": "",
       "link": []
@@ -11,12 +41,44 @@
   ],
   "2018": [
     {
-      "date": "",
-      "event": "",
-      "place": "",
-      "topic": "",
-      "slide": "",
-      "link": []
+      "date": "December 16, 2018",
+      "event": "PHPID National Meetup 2018",
+      "place": "Villa Kembar Lembang Asri - Bandung",
+      "topic": "PWA - An Introduction",
+      "slide": "https://speakerdeck.com/mazipan/pwa-an-introduction",
+      "link": [
+        "https://www.instagram.com/p/BrXLXtChJSy/"
+      ]
+    },
+    {
+      "date": "December 01, 2018",
+      "event": "UNSADA - DevTalk4",
+      "place": "Universitas Darma Persada - Jakarta",
+      "topic": "PWA - An Introduction",
+      "slide": "https://speakerdeck.com/mazipan/pwa-an-introduction",
+      "link": [
+        "https://www.instagram.com/p/Bq4Rp3oAh6T/"
+      ]
+    },
+    {
+      "date": "March 31, 2018",
+      "event": "Seminar Modern Web - Lets Move to Modern Web with PWA",
+      "place": "Unisbank - Semarang",
+      "topic": "Modern Web - An Introduction",
+      "slide": "https://speakerdeck.com/mazipan/modern-web-an-introduction",
+      "link": [
+        "https://www.instagram.com/p/BgSk34Hgw2V/"
+      ]
+    },
+    {
+      "date": "January 27, 2018",
+      "event": "Facebook DevC Jakarta - KICK START 2018",
+      "place": "Big Startup Secrets at JDV Menara Multimedia - Jakarta",
+      "topic": "Unit Testing for Frontend Code at Blibli.com",
+      "slide": "https://www.slideshare.net/IrfanMaulana21unit-testing-for-frontend-code-at-bliblicom",
+      "link": [
+        "https://www.facebook.com/events/405772536529525//"
+      ]
     }
   ],
   "2017": [
@@ -43,7 +105,7 @@
     {
       "date": "July 08, 2017",
       "event": "Google Mobile Web Hackaton",
-      "place": "Jakarta",
+      "place": "Google Indonesia Office - Jakarta",
       "topic": "AMP And PWA In Blibli.com",
       "slide": "https://www.slideshare.net/IrfanMaulana21/bliblidotcom-amp-and-pwa",
       "link": []
@@ -74,9 +136,7 @@
       "place": "SML Technologies",
       "topic": "How to Become Rockstar Programmer",
       "slide": "https://www.slideshare.net/IrfanMaulana21/how-to-become-rockstar-programmer",
-      "link": [
-        ""
-      ]
+      "link": []
     },
     {
       "date": "Feb 25, 2017",
