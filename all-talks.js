@@ -1,6 +1,16 @@
 export default {
   "2019": [
     {
+      "date": "Oct 30, 2019",
+      "event": "#53 JakartaJs x Shopee (JSDay Retrospektif)",
+      "place": "Shopee Indonesia Office",
+      "topic": "JSDay Indonesia Takeaways",
+      "slide": "https://speakerdeck.com/mazipan/jsday-indonesia-takeaways-jakartajs-meetup-october-2019",
+      "link": [
+        "https://www.meetup.com/JakartaJS/events/265706421/"
+      ]
+    },
+    {
       "date": "Sept 08, 2019",
       "event": "Tech A Break x Bali.js x GDG Bali",
       "place": "STMIK Primakara, Bali",
