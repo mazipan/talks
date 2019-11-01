@@ -18,6 +18,7 @@ In the last few years, I have some presentations stage, mostly in tecnical area.
 
 ### 2019
 
++ **Oct 30, 2019** - [#53 JakartaJs x Shopee (JSDay Retrospektif)](https://www.meetup.com/JakartaJS/events/265706421/) at Shopee Indonesia Office (*JSDay Indonesia Takeaways* - [slide here](https://speakerdeck.com/mazipan/jsday-indonesia-takeaways-jakartajs-meetup-october-2019))
 + **Sept 08, 2019** - [Tech A Break x Bali.js x GDG Bali](https://www.instagram.com/p/B2D68hrndsC/) at STMIK Primakara, Bali (*Build Scalable And Performant Mobile Web at Tokopedia*)
 + **August 31, 2019** - [DevC Jakarta Build Day 2019](https://jkt23-jakarta-buildday-2019.splashthat.com/) at Shopee Indonesia Office (*Lesson Learned Scaling React in Tokopedia*)
 + **July 21, 2019** - [Seminar Desain & Workshop IT](https://www.instagram.com/p/Bz9ct24ForG/) at STIKOM CKI (*Create A Delightful Website With Good DX* - [slide here](https://speakerdeck.com/mazipan/create-a-delightful-web-with-good-dx))
