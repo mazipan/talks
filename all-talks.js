@@ -32,7 +32,7 @@ export default {
     },
     {
       "date": "July 21, 2019",
-      "event": "JakartaJS Meetup",
+      "event": "Seminar Desain & Workshop IT",
       "place": "STIKOM CKI",
       "topic": "Create A Delightful Website With Good DX",
       "slide": "https://speakerdeck.com/mazipan/create-a-delightful-web-with-good-dx",
