@@ -47,7 +47,6 @@ In the last few years, I have some presentations stage, mostly in tecnical area.
 + **Jul 30, 2016** - Female Geek - [Launching Sister to Sister Program](https://www.codepolitan.com/femalegeek-php-indonesia-launching-program-sister-to-sisters) at Microsoft Indonesia (*Understanding UI/UX from Developer Side* - [slide here](https://www.slideshare.net/IrfanMaulana21/php-indonesia-understanding-ui-ux-from-developer-side)) - ([other article](https://id.techinasia.com/tip-membuat-tampilan-antar-muka-yang-nyaman))
 + **Apr 5, 2016** - JakartaJS - [April Meetup : React.js Fundamentals & Learning JavaScript](https://www.meetup.com/JakartaJS/events/229783425/) at Bukalapak.com (*How I Learn Javascript from Basic* - [slide here](https://www.slideshare.net/IrfanMaulana21/jakartajs-how-i-learn-javascript-from-basic))
 + **Mar 26, 2016** - [Php Indonesia Technology Update And Trend 2016 - II](https://www.codepolitan.com/tambah-pengetahuan-tren-teknologimu-terbaru-bersama-php-indonesia) at Microsoft Indonesia (*NodeJS Web Development* - [slide here](https://www.slideshare.net/IrfanMaulana21/php-indonesia-nodejs-web-development))
-+ **Feb 29, 2016** - Blibli Brown Bag at Blibli.com Office Slipi (*The Other Side of Javascript* - [slide here](https://www.slideshare.net/IrfanMaulana21/blibli-brown-bag-nodejs-the-other-side-of-javascript-58692089))
 
 -----
 
