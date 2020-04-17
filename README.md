@@ -16,6 +16,10 @@ In the last few years, I have some presentations stage, mostly in tecnical area.
 
 ## List of all talks :
 
+### 2020
+
++ **Apr 14, 2020** - [PHPID Online Learning #4](https://web.facebook.com/groups/phpid/permalink/10158077562731101/) at Zoom Meeting (Kinerja Web 101) - [slide here](https://speakerdeck.com/mazipan/kinerja-web-101)
+
 ### 2019
 
 + **Nov 30, 2019** - [WebUnconf 2019](https://www.instagram.com/p/B5nQXW_HS7U/) at Jambuluwuk Resort, Batu (*Build Performant Mobile Web at Tokopedia*)
