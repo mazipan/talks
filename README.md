@@ -14,20 +14,80 @@ You can see my complete CV in my Linkedin Profile: [https://www.linkedin.com/in/
 
 In the last few years, I have some presentations stage, mostly in tecnical area. You can check my open source work [here](https://github.com/mazipan/project-catalog).
 
+## Template
+
+```
+#### TEMPLATE -- Event Name
+
+- Topic: Topic of talk
+- Date: M DD, YYY
+- Location: Some place
+- Event Link: [here](link-to-event)
+- Slide: [here](link-to-slide)
+```
+
 ## List of all talks :
 
 ### 2020
 
-+ **Apr 14, 2020** - [PHPID Online Learning #4](https://web.facebook.com/groups/phpid/permalink/10158077562731101/) at Zoom Meeting (Kinerja Web 101) - [slide here](https://speakerdeck.com/mazipan/kinerja-web-101)
+#### PHPID Online Learning #4
+
+- Topic: Kinerja Web 101
+- Date: Apr 14, 2020
+- Location: Zoom Meeting from Jakarta
+- Event Link: [here](https://web.facebook.com/groups/phpid/permalink/10158077562731101/)
+- Slide: [here](slide here](https://speakerdeck.com/mazipan/kinerja-web-101)
 
 ### 2019
 
-+ **Nov 30, 2019** - [WebUnconf 2019](https://www.instagram.com/p/B5nQXW_HS7U/) at Jambuluwuk Resort, Batu (*Build Performant Mobile Web at Tokopedia*)
-+ **Oct 30, 2019** - [#53 JakartaJs x Shopee (JSDay Retrospektif)](https://www.meetup.com/JakartaJS/events/265706421/) at Shopee Indonesia Office (*JSDay Indonesia Takeaways* - [slide here](https://speakerdeck.com/mazipan/jsday-indonesia-takeaways-jakartajs-meetup-october-2019))
-+ **Sept 08, 2019** - [Tech A Break x Bali.js x GDG Bali](https://www.instagram.com/p/B2D68hrndsC/) at STMIK Primakara, Bali (*Build Scalable And Performant Mobile Web at Tokopedia*)
-+ **August 31, 2019** - [DevC Jakarta Build Day 2019](https://jkt23-jakarta-buildday-2019.splashthat.com/) at Shopee Indonesia Office (*Lesson Learned Scaling React in Tokopedia*)
-+ **July 21, 2019** - [Seminar Desain & Workshop IT](https://www.instagram.com/p/Bz9ct24ForG/) at STIKOM CKI (*Create A Delightful Website With Good DX* - [slide here](https://speakerdeck.com/mazipan/create-a-delightful-web-with-good-dx))
-+ **January 24, 2019** - [#46 JakartaJS Meetup, Talk Show: Career Path As Software Engineers](https://www.meetup.com/JakartaJS/events/258086815/) at Telkom Indonesia, Tbk
+#### WebUnconf 2019
+
+- Topic: Build Performant Mobile Web at Tokopedia
+- Date: Nov 30, 2019
+- Location: Jambuluwuk Resort, Batu
+- Event Link: [here](https://www.instagram.com/p/B5nQXW_HS7U/)
+- Slide: Confidential
+
+#### #53 JakartaJs x Shopee (JSDay Retrospektif)
+
+- Topic: JSDay Indonesia Takeaways
+- Date: Oct 30, 2019
+- Location: Shopee Indonesia Office, Jakarta
+- Event Link: [here](https://www.meetup.com/JakartaJS/events/265706421/)
+- Slide: [here](https://speakerdeck.com/mazipan/jsday-indonesia-takeaways-jakartajs-meetup-october-2019)
+
+#### Tech A Break x Bali.js x GDG Bali
+
+- Topic: Build Scalable And Performant Mobile Web at Tokopedia
+- Date: Sept 08, 2019
+- Location: STMIK Primakara, Bali
+- Event Link: [here](https://www.instagram.com/p/B2D68hrndsC/)
+- Slide: Confidential
+
+#### DevC Jakarta Build Day 2019
+
+- Topic: Lesson Learned Scaling React in Tokopedia
+- Date: August 31, 2019
+- Location: Shopee Indonesia Office, Jakarta
+- Event Link: [here](https://jkt23-jakarta-buildday-2019.splashthat.com/)
+- Slide: Confidential
+
+
+#### Seminar Desain & Workshop IT
+
+- Topic: Create A Delightful Website With Good DX
+- Date: July 21, 2019
+- Location: STIKOM CKI
+- Event Link: [here](https://www.instagram.com/p/Bz9ct24ForG/)
+- Slide: [here](https://speakerdeck.com/mazipan/create-a-delightful-web-with-good-dx)
+
+#### #46 JakartaJS Meetup, Talk Show: Career Path As Software Engineers
+
+- Topic: Talk Show
+- Date: January 24, 2019
+- Location: Telkom Indonesia, Tbk
+- Event Link: [here](https://www.meetup.com/JakartaJS/events/258086815/)
+- Slide: Not Available
 
 ### 2018
 
@@ -48,9 +108,29 @@ In the last few years, I have some presentations stage, mostly in tecnical area.
 
 ### 2016
 
-+ **Jul 30, 2016** - Female Geek - [Launching Sister to Sister Program](https://www.codepolitan.com/femalegeek-php-indonesia-launching-program-sister-to-sisters) at Microsoft Indonesia (*Understanding UI/UX from Developer Side* - [slide here](https://www.slideshare.net/IrfanMaulana21/php-indonesia-understanding-ui-ux-from-developer-side)) - ([other article](https://id.techinasia.com/tip-membuat-tampilan-antar-muka-yang-nyaman))
-+ **Apr 5, 2016** - JakartaJS - [April Meetup : React.js Fundamentals & Learning JavaScript](https://www.meetup.com/JakartaJS/events/229783425/) at Bukalapak.com (*How I Learn Javascript from Basic* - [slide here](https://www.slideshare.net/IrfanMaulana21/jakartajs-how-i-learn-javascript-from-basic))
-+ **Mar 26, 2016** - [Php Indonesia Technology Update And Trend 2016 - II](https://www.codepolitan.com/tambah-pengetahuan-tren-teknologimu-terbaru-bersama-php-indonesia) at Microsoft Indonesia (*NodeJS Web Development* - [slide here](https://www.slideshare.net/IrfanMaulana21/php-indonesia-nodejs-web-development))
+#### Female Geek - Launching Sister to Sister Program
+
+- Topic: Understanding UI/UX from Developer Side
+- Date: Jul 30, 2016
+- Location: Microsoft Indonesia, Jakarta
+- Event Link: [here](https://www.codepolitan.com/femalegeek-php-indonesia-launching-program-sister-to-sisters), [here](https://id.techinasia.com/tip-membuat-tampilan-antar-muka-yang-nyaman)
+- Slide: [here](https://www.slideshare.net/IrfanMaulana21/php-indonesia-understanding-ui-ux-from-developer-side)
+
+#### JakartaJS - April Meetup : React.js Fundamentals & Learning JavaScript
+
+- Topic: How I Learn Javascript from Basic
+- Date: Apr 5, 2016
+- Location: Bukalapak.com HQ, Jakarta
+- Event Link: [here](https://www.meetup.com/JakartaJS/events/229783425/)
+- Slide: [here](https://www.slideshare.net/IrfanMaulana21/jakartajs-how-i-learn-javascript-from-basic)
+
+#### Php Indonesia Technology Update And Trend 2016 - II
+
+- Topic: NodeJS Web Development
+- Date: Mar 26, 2016
+- Location: Bukalapak.com HQ, Jakarta
+- Event Link: [here](https://www.codepolitan.com/tambah-pengetahuan-tren-teknologimu-terbaru-bersama-php-indonesia)
+- Slide: [here](https://www.slideshare.net/IrfanMaulana21/php-indonesia-nodejs-web-development)
 
 -----
 
