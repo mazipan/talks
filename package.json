@@ -1,0 +1,17 @@
+{
+  "name": "talks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mazipan/talks.git",
+  "author": "Irfan Maulana <maulana.irfan@tokopedia.com>",
+  "license": "MIT",
+	"private": false,
+  "scripts": {
+    "toJson": "node ./toJson.js"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0-rc.3",
+    "markdown-it": "11.0.0",
+    "mkdirp": "1.0.4"
+  }
+}

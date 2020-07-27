@@ -115,7 +115,7 @@ In the last few years, I have some presentations stage, mostly in tecnical area.
 - Event Link: [here](https://www.instagram.com/p/BgSk34Hgw2V/)
 - Slide: [here](https://speakerdeck.com/mazipan/modern-web-an-introduction)
 
-#### Facebook DevC Jakarta - KICK START 2018 - Big Startup Secrets 
+#### Facebook DevC Jakarta - KICK START 2018 - Big Startup Secrets
 
 - Topic: Unit Testing for Frontend Code at Blibli.com
 - Date: Jan 27, 2018
@@ -206,10 +206,6 @@ In the last few years, I have some presentations stage, mostly in tecnical area.
 - Location: Bukalapak.com HQ, Jakarta
 - Event Link: [here](https://www.codepolitan.com/tambah-pengetahuan-tren-teknologimu-terbaru-bersama-php-indonesia)
 - Slide: [here](https://www.slideshare.net/IrfanMaulana21/php-indonesia-nodejs-web-development)
-
------
-
-If you would like me to speak at your event, feel free to :phone: [contact me](#contact-me) and I will be happy to help.
 
 ## FAQ
 
