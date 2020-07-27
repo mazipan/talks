@@ -30,6 +30,14 @@ In the last few years, I have some presentations stage, mostly in tecnical area.
 
 ### 2020
 
+#### Skilvul Webinar - Mendalami JavaScript Bareng
+
+- Topic: Menjadi Pemrogram JavaScript
+- Date: Jul 23, 2020
+- Location: Zoom Meeting from Jakarta
+- Event Link: [here](https://www.linkedin.com/posts/skilvul_skilvul-javascriptseries-indonesiasiapkerja-activity-6690919283528216576-rWJC)
+- Slide: [here](https://speakerdeck.com/mazipan/menjadi-pemrogram-javascript)
+
 #### PHPID Online Learning #4
 
 - Topic: Kinerja Web 101
