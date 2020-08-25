@@ -1,4 +1,4 @@
-# :microphone: Talks
+# 🎙 Talks
 
 Hi, I am **Irfan Maulana** :sunglasses:.
 
