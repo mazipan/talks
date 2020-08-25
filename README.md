@@ -30,6 +30,14 @@ In the last few years, I have some presentations stage, mostly in tecnical area.
 
 ### 2020
 
+#### Deep Tech Talk Vol. 12
+
+- Topic: Tips Wawancara Biar Bisa Diterima di Perusahaan Teknologi Nasional
+- Date: Aug 22, 2020
+- Location: Zoom Meeting from Jakarta
+- Event Link: [here](https://www.youtube.com/watch?v=GyahQonyDeg&t=1s)
+- Slide: N/A
+
 #### Skilvul Webinar - Mendalami JavaScript Bareng
 
 - Topic: Menjadi Pemrogram JavaScript
@@ -54,7 +62,7 @@ In the last few years, I have some presentations stage, mostly in tecnical area.
 - Date: Nov 30, 2019
 - Location: Jambuluwuk Resort, Batu
 - Event Link: [here](https://www.instagram.com/p/B5nQXW_HS7U/)
-- Slide: Confidential
+- Slide: N/A
 
 #### #53 JakartaJs x Shopee (JSDay Retrospektif)
 
@@ -70,7 +78,7 @@ In the last few years, I have some presentations stage, mostly in tecnical area.
 - Date: Sept 08, 2019
 - Location: STMIK Primakara, Bali
 - Event Link: [here](https://www.instagram.com/p/B2D68hrndsC/)
-- Slide: Confidential
+- Slide: N/A
 
 #### DevC Jakarta Build Day 2019
 
@@ -78,8 +86,7 @@ In the last few years, I have some presentations stage, mostly in tecnical area.
 - Date: Aug 31, 2019
 - Location: Shopee Indonesia Office, Jakarta
 - Event Link: [here](https://jkt23-jakarta-buildday-2019.splashthat.com/)
-- Slide: Confidential
-
+- Slide: N/A
 
 #### Seminar Desain & Workshop IT
 
@@ -95,7 +102,7 @@ In the last few years, I have some presentations stage, mostly in tecnical area.
 - Date: Jan 24, 2019
 - Location: Telkom Indonesia, Tbk
 - Event Link: [here](https://www.meetup.com/JakartaJS/events/258086815/)
-- Slide: Not Available
+- Slide: N/A
 
 ### 2018
 
