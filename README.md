@@ -43,7 +43,7 @@ In the last few years, I have some presentations stage, mostly in tecnical area.
 - Topic: Menjadi Pemrogram JavaScript
 - Date: Jul 23, 2020
 - Location: Zoom Meeting from Jakarta
-- Event Link: [here](https://www.linkedin.com/posts/skilvul_skilvul-javascriptseries-indonesiasiapkerja-activity-6690919283528216576-rWJC)
+- Event Link: [here](https://www.linkedin.com/posts/skilvul_skilvul-javascriptseries-indonesiasiapkerja-activity-6690919283528216576-rWJC), [here](https://www.youtube.com/watch?v=oRxdmMwcQBk)
 - Slide: [here](https://speakerdeck.com/mazipan/menjadi-pemrogram-javascript)
 
 #### PHPID Online Learning #4
