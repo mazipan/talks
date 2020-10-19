@@ -116,9 +116,9 @@ const main = async () => {
       })
       .get();
 
-    writeFile('./all-talks.json', JSON.stringify(objResult));
-    writeFile('./all-talks.js', `export default ${JSON.stringify(objResult)}`);
-    writeFile('./all-talks-node.js', `module.exports = ${JSON.stringify(objResult)}`);
+    writeFile('./all-talks.json', JSON.stringify(objResult, null, 2));
+    writeFile('./all-talks.js', `export default ${JSON.stringify(objResult, null, 2)}`);
+    writeFile('./all-talks-node.js', `module.exports = ${JSON.stringify(objResult, null, 2)}`);
   } catch (error) {
     console.error('❌ Error read file README.md', error);
   }
