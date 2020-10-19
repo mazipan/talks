@@ -1,6 +1,6 @@
 # 🎙 Talks
 
-Hi, I am **Irfan Maulana** :sunglasses:.
+Hi, I am **Irfan Maulana**, also known as mazipan.
 
 Principal Engineer in Tokopedia. Former Software Engineer in Bizzy, Blibli.com and SML Technologies.
 
