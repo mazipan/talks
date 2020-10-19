@@ -4,15 +4,9 @@ Hi, I am **Irfan Maulana** :sunglasses:.
 
 Principal Engineer in Tokopedia. Former Software Engineer in Bizzy, Blibli.com and SML Technologies.
 
-An experienced software engineer especially in frontend side.
-Having deep knowledge in HTML, CSS (with its pre-processor) and JavaScript with the various framework. Write good quality, well tested, and fast delivered code.
-Experience in architecting frontend codebase.
-
-A well-known figure in the programming community, open-source creator, and writer for many technical articles.
-
 You can see my complete CV in my Linkedin Profile: [https://www.linkedin.com/in/mazipan/](https://www.linkedin.com/in/mazipan/)
 
-In the last few years, I have some presentations stage, mostly in tecnical area. You can check my open source work [here](https://github.com/mazipan/project-catalog).
+In the last few years, I have some presentations stage, mostly talking about JavaScript, CSS, Frontend Development in General but not limited with non-technical topic but still related with Software Engineering.
 
 ## Template
 
@@ -26,7 +20,7 @@ In the last few years, I have some presentations stage, mostly in tecnical area.
 - Slide: [here](link-to-slide)
 ```
 
-## List of all talks :
+## 🙌 My Talks (in chronological order)
 
 ### 2020
 
@@ -238,15 +232,15 @@ In the last few years, I have some presentations stage, mostly in tecnical area.
 - Event Link: [here](https://www.codepolitan.com/tambah-pengetahuan-tren-teknologimu-terbaru-bersama-php-indonesia)
 - Slide: [here](https://www.slideshare.net/IrfanMaulana21/php-indonesia-nodejs-web-development)
 
-## FAQ
+## ❓ FAQ
 
-+ **Q:** Hey, I need your photo for banner promotions. Where can I get it??
-+ **A:** You can download my photo profile [here](photo/)
++ **Q:** Hey, I need your photo for a banner. Where can I get it?
++ **A:** You can download my latest photo profile [here](photo/)
 
 + **Q:** Can I get the slides from your presentation?
-+ **A:** Sure, most of my slides are available in [speakerdeck/mazipan](https://speakerdeck.com/mazipan)
++ **A:** Yes, You can. Most of my slides are available in [speakerdeck/mazipan](https://speakerdeck.com/mazipan)
 
-## Contact Me
+## 👋 Contact Me
 
 + 📧 Email : [mazipanneh@gmail.com](mailto:mazipanneh@gmail.com)
 + 💬 Telegram : [@mazipan](https://t.me/mazipan)
