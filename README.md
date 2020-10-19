@@ -30,6 +30,22 @@ In the last few years, I have some presentations stage, mostly in tecnical area.
 
 ### 2020
 
+#### Start Summit Extension - Tokopedia Frontend Journey
+
+- Topic: Unlocking New Capabilities For The Web
+- Date: Oct 20, 2020
+- Location: Google Meet from Jakarta
+- Event Link: [here](https://www.linkedin.com/posts/mazipan_akan-berbagi-mengenai-beberapa-kemampuan-activity-6720546712957677568-w7Mv)
+- Slide: N/A
+
+#### Tokopedia Technology Workshop by Tokopedia Academy
+
+- Topic: Core Web Vitals to Win Over The Market
+- Date: Aug 29, 2020
+- Location: Google Meet from Jakarta
+- Event Link: [here](https://www.linkedin.com/posts/idindrakusuma_workshop-training-webdev-activity-6707908590742728704-Hi7C)
+- Slide: N/A
+
 #### Deep Tech Talk Vol. 12
 
 - Topic: Tips Wawancara Biar Bisa Diterima di Perusahaan Teknologi Nasional
