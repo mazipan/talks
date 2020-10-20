@@ -29,7 +29,7 @@ In the last few years, I have some presentations stage, mostly talking about Jav
 - Topic: Unlocking New Capabilities For The Web
 - Date: Oct 20, 2020
 - Location: Google Meet from Jakarta
-- Event Link: [here](https://www.linkedin.com/posts/mazipan_akan-berbagi-mengenai-beberapa-kemampuan-activity-6720546712957677568-w7Mv)
+- Event Link: [here](https://youtu.be/1dgmVYSUeTY?t=2159)
 - Slide: N/A
 
 #### Tokopedia Technology Workshop by Tokopedia Academy
