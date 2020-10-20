@@ -236,7 +236,7 @@ module.exports = {
       "date": "Oct 20, 2020",
       "place": "Google Meet from Jakarta",
       "link": [
-        "https://www.linkedin.com/posts/mazipan_akan-berbagi-mengenai-beberapa-kemampuan-activity-6720546712957677568-w7Mv"
+        "https://youtu.be/1dgmVYSUeTY?t=2159"
       ],
       "slide": "NOT_AVAILABLE"
     },
