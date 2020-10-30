@@ -230,6 +230,17 @@ module.exports = {
   ],
   "2020": [
     {
+      "id": "intechfesh2020websitetechnologyoptimization",
+      "event": "Intech Fesh 2020 - Website Technology Optimization",
+      "topic": "Menjadi Web Developer di Masa Pandemi",
+      "date": "Oct 31, 2020",
+      "place": "Google Meet from Jakarta for Politeknik Negri Bali",
+      "link": [
+        "https://pnb-in.tech/"
+      ],
+      "slide": "https://speakerdeck.com/mazipan/menjadi-web-developer-di-masa-pandemi"
+    },
+    {
       "id": "startsummitextensiontokopediafrontendjourney",
       "event": "Start Summit Extension - Tokopedia Frontend Journey",
       "topic": "Unlocking New Capabilities For The Web",
