@@ -24,6 +24,14 @@ In the last few years, I have some presentations stage, mostly talking about Jav
 
 ### 2020
 
+#### Intech Fesh 2020 - Website Technology Optimization
+
+- Topic: Menjadi Web Developer di Masa Pandemi
+- Date: Oct 31, 2020
+- Location: Google Meet from Jakarta for Politeknik Negri Bali
+- Event Link: [here](https://pnb-in.tech/)
+- Slide: [here](https://speakerdeck.com/mazipan/menjadi-web-developer-di-masa-pandemi)
+
 #### Start Summit Extension - Tokopedia Frontend Journey
 
 - Topic: Unlocking New Capabilities For The Web
