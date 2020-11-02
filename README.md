@@ -29,7 +29,7 @@ In the last few years, I have some presentations stage, mostly talking about Jav
 - Topic: Menjadi Web Developer di Masa Pandemi
 - Date: Oct 31, 2020
 - Location: Google Meet from Jakarta for Politeknik Negri Bali
-- Event Link: [here](https://pnb-in.tech/)
+- Event Link: [here](https://m.facebook.com/story.php?story_fbid=131432505408472&id=100056251688889)
 - Slide: [here](https://speakerdeck.com/mazipan/menjadi-web-developer-di-masa-pandemi)
 
 #### Start Summit Extension - Tokopedia Frontend Journey
