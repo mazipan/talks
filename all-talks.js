@@ -236,7 +236,7 @@ export default {
       "date": "Oct 31, 2020",
       "place": "Google Meet from Jakarta for Politeknik Negri Bali",
       "link": [
-        "https://pnb-in.tech/"
+        "https://m.facebook.com/story.php?story_fbid=131432505408472&id=100056251688889"
       ],
       "slide": "https://speakerdeck.com/mazipan/menjadi-web-developer-di-masa-pandemi"
     },
