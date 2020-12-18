@@ -6,7 +6,7 @@ Principal Engineer in Tokopedia. Former Software Engineer in Bizzy, Blibli.com a
 
 You can see my complete carrier journey in this [Linkedin Profile](https://www.linkedin.com/in/mazipan/)
 
-In the last few years, I have some presentations stage, mostly talking about JavaScript, CSS, Frontend Development in General but not limited with non-technical topic but still related with Software Engineering.
+In the last few years, I have some presentations stage, mostly talking about JavaScript, CSS, frontend development in general and some non-technical topic related with software engineering.
 
 ## Template
 
