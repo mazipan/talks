@@ -4,7 +4,7 @@ Hi, I am **Irfan Maulana**, also known as mazipan.
 
 Principal Engineer in Tokopedia. Former Software Engineer in Bizzy, Blibli.com and SML Technologies.
 
-You can see my complete carrier journey in this [Linkedin Profile](https://www.linkedin.com/in/mazipan/)
+You can see my career journey in this [Linkedin Profile](https://www.linkedin.com/in/mazipan/)
 
 In the last few years, I have some presentations stage, mostly talking about JavaScript, CSS, frontend development in general and some non-technical topic related with software engineering.
 
