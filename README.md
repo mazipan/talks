@@ -16,8 +16,8 @@ In the last few years, I have some presentations stage, mostly talking about Jav
 - Topic: Topic of talk
 - Date: M DD, YYY
 - Location: Some place
-- Event Link: [here](http://goo.gle/CDS-ID3)
-- Slide: N/A
+- Event Link: [here](link-to-event)
+- Slide: [here](link-to-slide)
 ```
 
 ## 🙌 My Talks (in chronological order)
@@ -29,8 +29,8 @@ In the last few years, I have some presentations stage, mostly talking about Jav
 - Topic: Alat ukur performa web
 - Date: Jan 30, 2021
 - Location: Streamyard from Jakarta
-- Event Link: [here](link-to-event)
-- Slide: [here](link-to-slide)
+- Event Link: [here](http://goo.gle/CDS-ID3)
+- Slide: N/A
 
 ### 2020
 
