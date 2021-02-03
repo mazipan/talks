@@ -301,7 +301,7 @@ module.exports = {
     {
       "id": "chromedevsummitextended2020day3bygdgjakarta",
       "event": "Chrome Dev Summit Extended 2020 Day 3 by GDG Jakarta",
-      "topic": "Alat ukur performa web",
+      "topic": "Alat Pengukur Performa Web",
       "date": "Jan 30, 2021",
       "place": "Streamyard from Jakarta",
       "link": [
