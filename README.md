@@ -26,7 +26,7 @@ In the last few years, I have some presentations stage, mostly talking about Jav
 
 #### Chrome Dev Summit Extended 2020 Day 3 by GDG Jakarta
 
-- Topic: Alat ukur performa web
+- Topic: Alat Pengukur Performa Web
 - Date: Jan 30, 2021
 - Location: Streamyard from Jakarta
 - Event Link: [here](http://goo.gle/CDS-ID3)
