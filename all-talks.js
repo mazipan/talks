@@ -234,7 +234,7 @@ export default {
       "event": "Intech Fesh 2020 - Website Technology Optimization",
       "topic": "Menjadi Web Developer di Masa Pandemi",
       "date": "Oct 31, 2020",
-      "place": "Google Meet from Jakarta for Politeknik Negri Bali",
+      "place": "Google Meet from Jakarta for Politeknik Negeri Bali",
       "link": [
         "https://m.facebook.com/story.php?story_fbid=131432505408472&id=100056251688889"
       ],
@@ -295,6 +295,19 @@ export default {
         "https://web.facebook.com/groups/phpid/permalink/10158077562731101/"
       ],
       "slide": "https://speakerdeck.com/mazipan/kinerja-web-101"
+    }
+  ],
+  "2021": [
+    {
+      "id": "chromedevsummitextended2020day3bygdgjakarta",
+      "event": "Chrome Dev Summit Extended 2020 Day 3 by GDG Jakarta",
+      "topic": "Alat ukur performa web",
+      "date": "Jan 30, 2021",
+      "place": "Streamyard from Jakarta",
+      "link": [
+        "link-to-event"
+      ],
+      "slide": "link-to-slide"
     }
   ]
 }
