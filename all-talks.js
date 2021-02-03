@@ -305,9 +305,9 @@ export default {
       "date": "Jan 30, 2021",
       "place": "Streamyard from Jakarta",
       "link": [
-        "link-to-event"
+        "http://goo.gle/CDS-ID3"
       ],
-      "slide": "link-to-slide"
+      "slide": "NOT_AVAILABLE"
     }
   ]
 }
