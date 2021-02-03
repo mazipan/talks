@@ -16,11 +16,21 @@ In the last few years, I have some presentations stage, mostly talking about Jav
 - Topic: Topic of talk
 - Date: M DD, YYY
 - Location: Some place
-- Event Link: [here](link-to-event)
-- Slide: [here](link-to-slide)
+- Event Link: [here](http://goo.gle/CDS-ID3)
+- Slide: N/A
 ```
 
 ## 🙌 My Talks (in chronological order)
+
+### 2021
+
+#### Chrome Dev Summit Extended 2020 Day 3 by GDG Jakarta
+
+- Topic: Alat ukur performa web
+- Date: Jan 30, 2021
+- Location: Streamyard from Jakarta
+- Event Link: [here](link-to-event)
+- Slide: [here](link-to-slide)
 
 ### 2020
 
@@ -28,7 +38,7 @@ In the last few years, I have some presentations stage, mostly talking about Jav
 
 - Topic: Menjadi Web Developer di Masa Pandemi
 - Date: Oct 31, 2020
-- Location: Google Meet from Jakarta for Politeknik Negri Bali
+- Location: Google Meet from Jakarta for Politeknik Negeri Bali
 - Event Link: [here](https://m.facebook.com/story.php?story_fbid=131432505408472&id=100056251688889)
 - Slide: [here](https://speakerdeck.com/mazipan/menjadi-web-developer-di-masa-pandemi)
 
