@@ -299,6 +299,17 @@ export default {
   ],
   "2021": [
     {
+      "id": "deeptechxstackitftditbasiamalangbelajarbarengtemankomunitas",
+      "event": "DeepTech X StackIT FTD ITB Asia Malang - Belajar Bareng Teman Komunitas",
+      "topic": "Belajar React.js untuk Pembuatan Website Modern",
+      "date": "Feb 11, 2021",
+      "place": "Streamyard from Jakarta",
+      "link": [
+        "https://youtu.be/F1sbZbrILIg"
+      ],
+      "slide": "NOT_AVAILABLE"
+    },
+    {
       "id": "chromedevsummitextended2020day3bygdgjakarta",
       "event": "Chrome Dev Summit Extended 2020 Day 3 by GDG Jakarta",
       "topic": "Alat Pengukur Performa Web",
