@@ -267,7 +267,7 @@ export default {
       "event": "Deep Tech Talk Vol. 12",
       "topic": "Tips Wawancara Biar Bisa Diterima di Perusahaan Teknologi Nasional",
       "date": "Aug 22, 2020",
-      "place": "Zoom Meeting from Jakarta",
+      "place": "Streamyard from Jakarta",
       "link": [
         "https://www.youtube.com/watch?v=GyahQonyDeg&t=1s"
       ],
