@@ -70,7 +70,7 @@ In the last few years, I have some presentations stage, mostly talking about Jav
 
 - Topic: Tips Wawancara Biar Bisa Diterima di Perusahaan Teknologi Nasional
 - Date: Aug 22, 2020
-- Location: Zoom Meeting from Jakarta
+- Location: Streamyard from Jakarta
 - Event Link: [here](https://www.youtube.com/watch?v=GyahQonyDeg&t=1s)
 - Slide: N/A
 
