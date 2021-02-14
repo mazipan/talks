@@ -24,6 +24,14 @@ In the last few years, I have some presentations stage, mostly talking about Jav
 
 ### 2021
 
+#### DeepTech X StackIT FTD ITB Asia Malang - Belajar Bareng Teman Komunitas
+
+- Topic: Belajar React.js untuk Pembuatan Website Modern
+- Date: Feb 11, 2021
+- Location: Streamyard from Jakarta
+- Event Link: [here](https://youtu.be/F1sbZbrILIg)
+- Slide: N/A
+
 #### Chrome Dev Summit Extended 2020 Day 3 by GDG Jakarta
 
 - Topic: Alat Pengukur Performa Web
