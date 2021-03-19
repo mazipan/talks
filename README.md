@@ -24,6 +24,14 @@ In the last few years, I have some presentations stage, mostly talking about Jav
 
 ### 2021
 
+#### PHPID Online Learning #63
+
+- Topic: Membuat Laporan Kecepatan Web untuk Blog Pribadi
+- Date: Mar 17, 2021
+- Location: Zoom Meeting from Jakarta
+- Event Link: [here](https://www.facebook.com/groups/phpid/permalink/10159038292141101/)
+- Slide: [here](https://speakerdeck.com/mazipan/membuat-laporan-kecepatan-web-untuk-blog)
+
 #### DeepTech X StackIT FTD ITB Asia Malang - Belajar Bareng Teman Komunitas
 
 - Topic: Belajar React.js untuk Pembuatan Website Modern
