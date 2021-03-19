@@ -299,6 +299,17 @@ module.exports = {
   ],
   "2021": [
     {
+      "id": "phpidonlinelearning63",
+      "event": "PHPID Online Learning #63",
+      "topic": "Membuat Laporan Kecepatan Web untuk Blog Pribadi",
+      "date": "Mar 17, 2021",
+      "place": "Zoom Meeting from Jakarta",
+      "link": [
+        "https://www.facebook.com/groups/phpid/permalink/10159038292141101/"
+      ],
+      "slide": "https://speakerdeck.com/mazipan/membuat-laporan-kecepatan-web-untuk-blog"
+    },
+    {
       "id": "deeptechxstackitftditbasiamalangbelajarbarengtemankomunitas",
       "event": "DeepTech X StackIT FTD ITB Asia Malang - Belajar Bareng Teman Komunitas",
       "topic": "Belajar React.js untuk Pembuatan Website Modern",
