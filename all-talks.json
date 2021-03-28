@@ -299,6 +299,17 @@
   ],
   "2021": [
     {
+      "id": "techtalkwebdevelopmentdeveloperstudentclubgunadarmauniversity",
+      "event": "Tech Talk Web Development Developer Student Club Gunadarma University",
+      "topic": "Web Development Productivity on Tokopedia",
+      "date": "Mar 27, 2021",
+      "place": "Zoom Meeting from Jakarta",
+      "link": [
+        "https://youtu.be/Z2sYk-bjgNM"
+      ],
+      "slide": "NOT_AVAILABLE"
+    },
+    {
       "id": "phpidonlinelearning63",
       "event": "PHPID Online Learning #63",
       "topic": "Membuat Laporan Kecepatan Web untuk Blog Pribadi",
