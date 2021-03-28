@@ -4,9 +4,15 @@ Hi, I am **Irfan Maulana**, also known as mazipan.
 
 Principal Engineer in Tokopedia. Former Software Engineer in Bizzy, Blibli.com and SML Technologies.
 
-You can see my career journey in this [Linkedin Profile](https://www.linkedin.com/in/mazipan/)
+You can see the detail of my career journey in the [Linkedin Profile](https://www.linkedin.com/in/mazipan/)
 
-In the last few years, I have some presentations stage, mostly talking about JavaScript, CSS, frontend development in general and some non-technical topic related with software engineering.
+## ❓ FAQ
+
++ **Q:** Hey, I need your photo for a banner. Where can I get it?
++ **A:** You can download my latest photo profile [here](photo/)
+
++ **Q:** Can I get the slides from your presentation?
++ **A:** Yes, You can. Most of my slides are available in [speakerdeck/mazipan](https://speakerdeck.com/mazipan)
 
 ## Template
 
@@ -20,7 +26,7 @@ In the last few years, I have some presentations stage, mostly talking about Jav
 - Slide: [here](link-to-slide)
 ```
 
-## 🙌 My Talks (in chronological order)
+## 🙌 Tech talks (in chronological order)
 
 ### 2021
 
@@ -273,14 +279,6 @@ In the last few years, I have some presentations stage, mostly talking about Jav
 - Location: Bukalapak.com HQ, Jakarta
 - Event Link: [here](https://www.codepolitan.com/tambah-pengetahuan-tren-teknologimu-terbaru-bersama-php-indonesia)
 - Slide: [here](https://www.slideshare.net/IrfanMaulana21/php-indonesia-nodejs-web-development)
-
-## ❓ FAQ
-
-+ **Q:** Hey, I need your photo for a banner. Where can I get it?
-+ **A:** You can download my latest photo profile [here](photo/)
-
-+ **Q:** Can I get the slides from your presentation?
-+ **A:** Yes, You can. Most of my slides are available in [speakerdeck/mazipan](https://speakerdeck.com/mazipan)
 
 ## 👋 Contact Me
 
