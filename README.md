@@ -24,6 +24,14 @@ In the last few years, I have some presentations stage, mostly talking about Jav
 
 ### 2021
 
+#### Tech Talk Web Development Developer Student Club Gunadarma University
+
+- Topic: Web Development Productivity on Tokopedia
+- Date: Mar 27, 2021
+- Location: Zoom Meeting from Jakarta
+- Event Link: [here](https://youtu.be/Z2sYk-bjgNM)
+- Slide: N/A
+
 #### PHPID Online Learning #63
 
 - Topic: Membuat Laporan Kecepatan Web untuk Blog Pribadi
