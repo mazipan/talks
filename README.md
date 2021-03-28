@@ -12,7 +12,7 @@ You can see the detail of my career journey in the [Linkedin Profile](https://ww
 + **A:** You can download my latest photo profile [here](photo/)
 
 + **Q:** Can I get the slides from your presentation?
-+ **A:** Yes, You can. Most of my slides are available in [speakerdeck/mazipan](https://speakerdeck.com/mazipan)
++ **A:** Yes, You can. The slides can be found in [speakerdeck.com/mazipan](https://speakerdeck.com/mazipan)
 
 ## Template
 
