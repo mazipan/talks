@@ -299,6 +299,17 @@ module.exports = {
   ],
   "2021": [
     {
+      "id": "phpidonlinelearning72",
+      "event": "PHPID Online Learning #72",
+      "topic": "Bongkar Dapur Webnya #PHPID-OL",
+      "date": "Mar 31, 2021",
+      "place": "Zoom Meeting from Jakarta",
+      "link": [
+        "https://www.facebook.com/groups/phpid/permalink/10159073242061101/"
+      ],
+      "slide": "https://speakerdeck.com/mazipan/bongkar-dapur-webnya-number-phpid-ol"
+    },
+    {
       "id": "techtalkwebdevelopmentdeveloperstudentclubgunadarmauniversity",
       "event": "Tech Talk Web Development Developer Student Club Gunadarma University",
       "topic": "Web Development Productivity on Tokopedia",
