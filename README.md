@@ -30,6 +30,14 @@ You can see the detail of my career journey in the [Linkedin Profile](https://ww
 
 ### 2021
 
+#### PHPID Online Learning #72
+
+- Topic: Bongkar Dapur Webnya #PHPID-OL
+- Date: Mar 31, 2021
+- Location: Zoom Meeting from Jakarta
+- Event Link: [here](https://www.facebook.com/groups/phpid/permalink/10159073242061101/)
+- Slide: [here](https://speakerdeck.com/mazipan/bongkar-dapur-webnya-number-phpid-ol)
+
 #### Tech Talk Web Development Developer Student Club Gunadarma University
 
 - Topic: Web Development Productivity on Tokopedia
