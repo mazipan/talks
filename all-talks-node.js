@@ -258,7 +258,7 @@ module.exports = {
       "date": "Aug 29, 2020",
       "place": "Google Meet from Jakarta",
       "link": [
-        "https://www.linkedin.com/posts/idindrakusuma_workshop-training-webdev-activity-6707908590742728704-Hi7C"
+        "https://academy.tokopedia.com/learn/technology/16"
       ],
       "slide": "NOT_AVAILABLE"
     },
