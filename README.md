@@ -93,7 +93,7 @@ You can see the detail of my career journey in the [Linkedin Profile](https://ww
 - Topic: Core Web Vitals to Win Over The Market
 - Date: Aug 29, 2020
 - Location: Google Meet from Jakarta
-- Event Link: [here](https://www.linkedin.com/posts/idindrakusuma_workshop-training-webdev-activity-6707908590742728704-Hi7C)
+- Event Link: [here](https://academy.tokopedia.com/learn/technology/16)
 - Slide: N/A
 
 #### Deep Tech Talk Vol. 12
