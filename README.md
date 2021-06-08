@@ -30,6 +30,22 @@ You can see the detail of my career journey in the [Linkedin Profile](https://ks
 
 ### 2021
 
+#### Webinar Studi Excursie 2021 - Proses Bisnis dan Lingkungan Kerja Industri IT
+
+- Topic: Memulai Karir Sebagai Web Programmer
+- Date: June 06, 2021
+- Location: Live on Zoom from Jakarta
+- Event Link: [here](https://youtu.be/3eL4m6CBFKs)
+- Slide: [here](https://speakerdeck.com/mazipan/memulai-karir-sebagai-web-programmer)
+
+#### Tokopedia Goes to Campus - June
+
+- Topic: Life After Graduation - Land Your Dream Job in Leading Tech Company
+- Date: June 03, 2021
+- Location: Live on YouTube from Jakarta
+- Event Link: [here](https://youtu.be/H_yyrfqg8Ok)
+- Slide: N/A
+
 #### PHPID Online Learning #72
 
 - Topic: Bongkar Dapur Webnya #PHPID-OL
