@@ -3,6 +3,13 @@ name: Generate JSON
   push:
     branches:
       - master-invalid
+    paths-ignore:
+      - "LAST_UPDATED"
+      - "all-talks.json"
+      - "all-talks.js"
+      - "all-talks-node.js"
+      - "package.json"
+
 jobs:
   generate_json:
     runs-on: ubuntu-latest
