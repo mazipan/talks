@@ -318,5 +318,5 @@ You can see the detail of my career journey in the [Linkedin Profile](https://ks
 + 🌏 Blog : [mazipan.space](https://mazipan.space/)
 + 💬 Telegram : [@mazipan](https://t.me/mazipan)
 + 🐦 Twitter : [@Maz_Ipan](https://twitter.com/Maz_Ipan)
-+ 🎭 Facebook: [@mazipanneh](https://www.facebook.com/mazipanneh)
-+ 📸 Instagram: [@maz_ipan](https://www.instagram.com/maz_ipan/)
++ 🎭 Facebook: [@mazipanneh](https://www.facebook.com/mazipanneh) - **DEACTIVATED**
++ 📸 Instagram: [@maz_ipan](https://www.instagram.com/maz_ipan/) - **NOT ACTIVE**
