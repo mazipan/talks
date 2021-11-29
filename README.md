@@ -30,6 +30,14 @@ You can see the detail of my career journey in the [Linkedin Profile](https://ks
 
 ### 2021
 
+#### Tech Talk #1: How a Front-End Developer Implements a Mockup Design from UI/UX Designer?
+
+- Topic: Bagaimana implementasi mockup design
+- Date: Nov 28, 2021
+- Location: Live on Zoom from Jakarta
+- Event Link: N/A
+- Slide: [here](https://speakerdeck.com/mazipan/bagaimana-implementasi-mockup-design)
+- 
 #### Webinar Studi Excursie 2021 - Proses Bisnis dan Lingkungan Kerja Industri IT
 
 - Topic: Memulai Karir Sebagai Web Programmer
