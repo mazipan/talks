@@ -37,7 +37,7 @@ You can see the detail of my career journey in the [Linkedin Profile](https://ks
 - Location: Live on Zoom from Jakarta
 - Event Link: N/A
 - Slide: [here](https://speakerdeck.com/mazipan/bagaimana-implementasi-mockup-design)
-- 
+
 #### Webinar Studi Excursie 2021 - Proses Bisnis dan Lingkungan Kerja Industri IT
 
 - Topic: Memulai Karir Sebagai Web Programmer
