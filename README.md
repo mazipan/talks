@@ -28,7 +28,7 @@ Don't forget to give me a clear information about your event, including (but not
 + **A:** Yes, You can. The slides can be found in [speakerdeck.com/mazipan](https://speakerdeck.com/mazipan)
 
 + **Q:** Do we need to pay you for giving a talk?
-+ **A:** For most of cases, No, you don't need. But in a case, I need to travel to your area which are not being paid my current company, you might be need to cover the travel costs.
++ **A:** For most of cases, No, you don't need to pay me. But in a case where I need to travel to your area, which might not being paid by my current company, you will need to cover the travel costs.
 
 ## 👋 Contacts
 
