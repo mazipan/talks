@@ -299,6 +299,39 @@ export default {
   ],
   "2021": [
     {
+      "id": "devfest2021bygdgsemarang",
+      "event": "DevFest 2021 by GDG Semarang",
+      "topic": "Repaint Layout and The Lessons Learned",
+      "date": "Dec 18, 2021",
+      "place": "Live on YouTube from Jakarta",
+      "link": [
+        "https://youtu.be/J3mOtpGwUzY"
+      ],
+      "slide": "NOT_AVAILABLE"
+    },
+    {
+      "id": "tokopedianextgenbytokopediaacademy",
+      "event": "Tokopedia NextGen by Tokopedia Academy",
+      "topic": "Building your first Audio Player Web App",
+      "date": "Dec 17, 2021",
+      "place": "Live on YouTube from Jakarta",
+      "link": [
+        "https://academy.tokopedia.com/events/nextgen"
+      ],
+      "slide": "https://ksana.in/handbook-audio-player"
+    },
+    {
+      "id": "techtalk1:howafront-enddeveloperimplementsamockupdesignfromui/uxdesigner?",
+      "event": "Tech Talk #1: How a Front-End Developer Implements a Mockup Design from UI/UX Designer?",
+      "topic": "Bagaimana implementasi mockup design",
+      "date": "Nov 28, 2021",
+      "place": "Live on Zoom from Jakarta",
+      "link": [
+        "NOT_AVAILABLE"
+      ],
+      "slide": "https://speakerdeck.com/mazipan/bagaimana-implementasi-mockup-design"
+    },
+    {
       "id": "webinarstudiexcursie2021prosesbisnisdanlingkungankerjaindustriit",
       "event": "Webinar Studi Excursie 2021 - Proses Bisnis dan Lingkungan Kerja Industri IT",
       "topic": "Memulai Karir Sebagai Web Programmer",
