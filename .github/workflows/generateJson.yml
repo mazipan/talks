@@ -2,7 +2,7 @@ name: Generate JSON
 "on":
   push:
     branches:
-      - master-invalid
+      - master
     paths-ignore:
       - "LAST_UPDATED"
       - "all-talks.json"
