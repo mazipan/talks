@@ -1,18 +1,39 @@
 # 🎙 Talks
 
 Hi, I am **Irfan Maulana**, also known as mazipan.
+A frontend developer for almost 10 years of experience. 
+My talks are covering about web performance topic, web development, testing, and a generic career advice from my own perspective.
 
-Principal Engineer in Tokopedia. Former Software Engineer in Bizzy, Blibli.com and SML Technologies.
+## 🤝 Invite me
 
-You can see the detail of my career journey in the [Linkedin Profile](https://ksana.in/mzp.in)
+You can invite me to giving a talk in your event by sending an email to [mazipanneh@gmail.com](mailto:mazipanneh@gmail.com).
+Don't forget to give me a clear information about your event, including (but not limited):
+
+- About your organization
+- About the audience
+- The expected topic you want me to talk about
+- The schedule
 
 ## ❓ FAQ
 
-+ **Q:** Hey, I need your photo for a banner. Where can I get it?
++ **Q:** Can we get your resume?
++ **A:** Yes, please refer to my [Linkedin Profile](https://ksana.in/mzp.in)
+
++ **Q:** Where can we get your latest photo?
 + **A:** You can download my latest photo profile [here](photo/)
 
-+ **Q:** Can I get the slides from your presentation?
++ **Q:** Can we get the slides from your presentation?
 + **A:** Yes, You can. The slides can be found in [speakerdeck.com/mazipan](https://speakerdeck.com/mazipan)
+
++ **Q:** Do we need to pay you for giving a talk?
++ **A:** For most of cases, No, you don't need. But in a case, I need to travel to your area which are not being paid my current company, you might be need to cover the travel costs.
+
+## 👋 Contacts
+
++ 📧 Email : [mazipanneh@gmail.com](mailto:mazipanneh@gmail.com)
++ 🌏 Blog : [mazipan.space](https://mazipan.space/)
++ 💬 Telegram : [@mazipan](https://t.me/mazipan)
++ 🐦 Twitter : [@Maz_Ipan](https://twitter.com/Maz_Ipan)
 
 ## Template
 
@@ -29,6 +50,22 @@ You can see the detail of my career journey in the [Linkedin Profile](https://ks
 ## 🙌 Tech talks (in chronological order)
 
 ### 2021
+
+#### DevFest 2021 by GDG Semarang
+
+- Topic: Repaint Layout and The Lessons Learned
+- Date: Dec 18, 2021
+- Location: Live on YouTube from Jakarta
+- Event Link: [here](https://youtu.be/J3mOtpGwUzY)
+- Slide: N/A
+
+#### Tokopedia NextGen by Tokopedia Academy
+
+- Topic: Building your first Audio Player Web App
+- Date: Dec 17, 2021
+- Location: Live on YouTube from Jakarta
+- Event Link: [here](https://academy.tokopedia.com/events/nextgen)
+- Slide: [here](https://ksana.in/handbook-audio-player)
 
 #### Tech Talk #1: How a Front-End Developer Implements a Mockup Design from UI/UX Designer?
 
@@ -311,12 +348,3 @@ You can see the detail of my career journey in the [Linkedin Profile](https://ks
 - Location: Bukalapak.com HQ, Jakarta
 - Event Link: [here](https://www.codepolitan.com/tambah-pengetahuan-tren-teknologimu-terbaru-bersama-php-indonesia)
 - Slide: [here](https://www.slideshare.net/IrfanMaulana21/php-indonesia-nodejs-web-development)
-
-## 👋 Contact Me
-
-+ 📧 Email : [mazipanneh@gmail.com](mailto:mazipanneh@gmail.com)
-+ 🌏 Blog : [mazipan.space](https://mazipan.space/)
-+ 💬 Telegram : [@mazipan](https://t.me/mazipan)
-+ 🐦 Twitter : [@Maz_Ipan](https://twitter.com/Maz_Ipan)
-+ 🎭 Facebook: [@mazipanneh](https://www.facebook.com/mazipanneh) - **DEACTIVATED**
-+ 📸 Instagram: [@maz_ipan](https://www.instagram.com/maz_ipan/) - **NOT ACTIVE**
