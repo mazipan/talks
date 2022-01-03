@@ -59,7 +59,7 @@ Don't forget to give me a clear information about your event, including (but not
 - Date: Dec 18, 2021
 - Location: Live on YouTube from Jakarta
 - Event Link: [here](https://youtu.be/J3mOtpGwUzY)
-- Slide: N/A
+- Slide: [here](https://speakerdeck.com/mazipan/layout-repaint-and-the-lessons-learned)
 
 #### Tokopedia NextGen by Tokopedia Academy
 
