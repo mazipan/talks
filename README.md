@@ -48,10 +48,9 @@ You will need to cover my travel costs.
 
 ## 👋 Contacts
 
-+ 📧 Email : [mazipanneh@gmail.com](mailto:mazipanneh@gmail.com)
-+ 🌏 Blog : [mazipan.space](https://mazipan.space/)
++ 📧 Email    : [mazipanneh@gmail.com](mailto:mazipanneh@gmail.com)
 + 💬 Telegram : [@mazipan](https://t.me/mazipan)
-+ 🐦 Twitter : [@Maz_Ipan](https://twitter.com/Maz_Ipan)
++ 🐦 Twitter  : [@Maz_Ipan](https://twitter.com/Maz_Ipan)
 
 ## Template
 
