@@ -307,7 +307,7 @@ module.exports = {
       "link": [
         "https://youtu.be/J3mOtpGwUzY"
       ],
-      "slide": "NOT_AVAILABLE"
+      "slide": "https://speakerdeck.com/mazipan/layout-repaint-and-the-lessons-learned"
     },
     {
       "id": "tokopedianextgenbytokopediaacademy",
