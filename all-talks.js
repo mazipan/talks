@@ -408,5 +408,18 @@ export default {
       ],
       "slide": "NOT_AVAILABLE"
     }
+  ],
+  "2022": [
+    {
+      "id": "webinarnasionalseries1bystmikwidyaciptadharma",
+      "event": "Webinar Nasional Series 1 by STMIK Widya Cipta Dharma",
+      "topic": "Membuat Website Zaman Sekarang",
+      "date": "Mar 12, 2022",
+      "place": "Live on Zoom from Jakarta",
+      "link": [
+        "https://youtu.be/VED76hylPec"
+      ],
+      "slide": "https://speakerdeck.com/mazipan/membuat-website-zaman-sekarang"
+    }
   ]
 }
