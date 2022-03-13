@@ -66,6 +66,16 @@ You will need to cover my travel costs.
 
 ## 🙌 Tech talks (in chronological order)
 
+### 2022
+
+#### Webinar Nasional Series 1 by STMIK Widya Cipta Dharma
+
+- Topic: Membuat Website Zaman Sekarang 
+- Date: Mar 12, 2022
+- Location: Live on Zoom from Jakarta
+- Event Link: [here](https://youtu.be/VED76hylPec)
+- Slide: [here](https://speakerdeck.com/mazipan/membuat-website-zaman-sekarang)
+
 ### 2021
 
 #### DevFest 2021 by GDG Semarang
