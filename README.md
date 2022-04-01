@@ -19,15 +19,19 @@ Don't forget to give me a clear information about your event, including (but not
 ## ❓ FAQ
 
 **Question: Can we get your resume?**
+
 **Answer**: Yes, please refer to my Linkedin Profile: https://ksana.in/mzp.in
 
 **Question: Where can we get your latest photo?**
+
 **Answer**: You can download my latest photo profile in directory ["photo/"](https://github.com/mazipan/talks/tree/master/photo)
 
 **Question: Can we get the slides from your presentation?**
+
 **Answer**: Yes, You can. Most of my slides available on https://speakerdeck.com/mazipan
 
 **Question: Do we need to pay you for giving a talk?**
+
 **Answer**: In most of cases, No, you don't need to pay me. But in a case where I need to travel to your area which might not being paid by my current company, you need to cover my travel costs.
 
 ## 👋 Contacts
