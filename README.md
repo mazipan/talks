@@ -12,32 +12,32 @@ You can invite me to giving a talk in your event by sending an email to [mazipan
 Don't forget to give me a clear information about your event, including (but not limited):
 
 - About your organization
-- About the audience
-- The expected topic you want me to talk about
-- The schedule
+- Target audience
+- The topic you want me to talk about
+- The event date/schedule
 
 ## ❓ FAQ
 
 Expand to see the answer.
 
 <details>
-    <summary>Can we get your resume?</summary>
+    <summary>📒 Can we get your resume?</summary>
     Yes, please visit my LinkedIn https://ksana.in/mzp.in
 </details>
 
 <details>
-    <summary>Where can we get your latest photo?</summary>
+    <summary>🖼️ Where can we get your latest photo?</summary>
     You can download my latest photo profile in <a href="https://github.com/mazipan/talks/tree/master/photo">photo/</a>
 </details>
 
 <details>
-    <summary>Can we share the presentation deck?</summary>
+    <summary>💻 Can we share the presentation deck?</summary>
     Yes, You can. Most of my deck available on https://speakerdeck.com/mazipan
 </details>
 
 <details>
-    <summary>Do we need to pay you for giving a talk?</summary>
-    In most of cases, No, you don't need to pay me. But in a case where I need to travel to your area which might not being paid by my current company, you need to cover my travel costs.
+    <summary>💸 Do we need to pay you for giving a talk?</summary>
+    No, you don't need. But when I need to travel to your area, you need to cover all my travel costs.
 </details>
 
 ## 👋 Contacts
