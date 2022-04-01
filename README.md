@@ -62,6 +62,22 @@ Expand to see the answer.
 
 ### 2022
 
+#### PHPID Online Learning 
+
+- Topic: Kinerja Web 101 - Edisi 2022
+- Date: Mar 29, 2022
+- Location: Live on Zoom from Jakarta
+- Event Link: [here](https://youtu.be/5A40KaPO4EM)
+- Slide: [here](https://speakerdeck.com/mazipan/kinerja-web-101-edisi-2022)
+
+#### Sharing Santai Vol.10 by Narai Coder
+
+- Topic: Sharing Bebas Seputar Frontend
+- Date: Mar 26, 2022
+- Location: Live on Zoom from Jakarta
+- Event Link: [here](https://youtu.be/fPSHSi9RJ-4)
+- Slide: N/A
+
 #### Webinar Nasional Series 1 by STMIK Widya Cipta Dharma
 
 - Topic: Membuat Website Zaman Sekarang 
