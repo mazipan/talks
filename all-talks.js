@@ -411,6 +411,28 @@ export default {
   ],
   "2022": [
     {
+      "id": "phpidonlinelearning",
+      "event": "PHPID Online Learning",
+      "topic": "Kinerja Web 101 - Edisi 2022",
+      "date": "Mar 29, 2022",
+      "place": "Live on Zoom from Jakarta",
+      "link": [
+        "https://youtu.be/5A40KaPO4EM"
+      ],
+      "slide": "https://speakerdeck.com/mazipan/kinerja-web-101-edisi-2022"
+    },
+    {
+      "id": "sharingsantaivol10bynaraicoder",
+      "event": "Sharing Santai Vol.10 by Narai Coder",
+      "topic": "Sharing Bebas Seputar Frontend",
+      "date": "Mar 26, 2022",
+      "place": "Live on Zoom from Jakarta",
+      "link": [
+        "https://youtu.be/fPSHSi9RJ-4"
+      ],
+      "slide": "NOT_AVAILABLE"
+    },
+    {
       "id": "webinarnasionalseries1bystmikwidyaciptadharma",
       "event": "Webinar Nasional Series 1 by STMIK Widya Cipta Dharma",
       "topic": "Membuat Website Zaman Sekarang",
