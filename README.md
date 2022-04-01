@@ -22,17 +22,17 @@ Expand to see the answer.
 
 <details>
     <summary>Can we get your resume?</summary>
-    Yes, please refer to my Linkedin Profile: https://ksana.in/mzp.in
+    Yes, please visit my LinkedIn https://ksana.in/mzp.in
 </details>
 
 <details>
     <summary>Where can we get your latest photo?</summary>
-    You can download my latest photo profile in directory <a href="https://github.com/mazipan/talks/tree/master/photo">photo/*</a>
+    You can download my latest photo profile in <a href="https://github.com/mazipan/talks/tree/master/photo">photo/</a>
 </details>
 
 <details>
-    <summary>Can we get the slides from your presentation?</summary>
-    Yes, You can. Most of my slides available on https://speakerdeck.com/mazipan
+    <summary>Can we share the presentation deck?</summary>
+    Yes, You can. Most of my deck available on https://speakerdeck.com/mazipan
 </details>
 
 <details>
