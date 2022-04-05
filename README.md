@@ -22,22 +22,27 @@ Expand to see the answer.
 
 <details>
     <summary>📒 Can we get your resume?</summary>
-    Yes, please visit my LinkedIn https://ksana.in/mzp.in
+    <p><br/>🗣 Yes, please visit my LinkedIn https://ksana.in/mzp.in</p>
 </details>
 
 <details>
     <summary>🖼️ Where can we get your latest photo?</summary>
-    You can download my latest photo profile in <a href="https://github.com/mazipan/talks/tree/master/photo">photo/</a>
+    <p><br/>🗣 You can download my latest photo profile in <a href="https://github.com/mazipan/talks/tree/master/photo">photo/</a></p>
 </details>
 
 <details>
     <summary>💻 Can we share the presentation deck?</summary>
-    Yes, You can. Most of my deck available on https://speakerdeck.com/mazipan
+    <p><br/>🗣 Yes, You can. Most of my deck available on https://speakerdeck.com/mazipan</p>
 </details>
 
 <details>
     <summary>💸 Do we need to pay you for giving a talk?</summary>
-    No, you don't need. But when I need to travel to your area, you need to cover all my travel costs.
+    <p><br/>🗣 No, you don't need. But when I need to travel to your area, you need to cover all my travel costs.</p>
+</details>
+
+<details>
+    <summary>🗓 After got an agreement, what things we should do?</summary>
+    <p><br/>🗣 Create a calendar invitation to my email to reverse my time.</p>
 </details>
 
 ## 👋 Contacts
