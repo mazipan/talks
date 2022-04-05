@@ -42,7 +42,7 @@ Expand to see the answer.
 
 <details>
     <summary>🗓 After got an agreement, what things we should do?</summary>
-    <p><br/>🗣 Create a calendar invitation to my email to reverse my time.</p>
+    <p><br/>🗣 Create a calendar invitation to my email.</p>
 </details>
 
 ## 👋 Contacts
