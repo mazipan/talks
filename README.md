@@ -106,7 +106,7 @@ Expand to see the answer.
 - Topic: Building your first Audio Player Web App
 - Date: Dec 17, 2021
 - Location: Live on YouTube from Jakarta
-- Event Link: [here](https://academy.tokopedia.com/events/nextgen)
+- Event Link: [here](https://tokopedia.link/Su7u38WEapb)
 - Slide: [here](https://ksana.in/handbook-audio-player)
 
 #### Tech Talk #1: How a Front-End Developer Implements a Mockup Design from UI/UX Designer?
