@@ -22,27 +22,27 @@ Expand to see the answer.
 
 <details>
     <summary>📒 Can we get your resume?</summary>
-    <p><br/>🗣 Yes, please visit my LinkedIn https://ksana.in/mzp.in</p>
+    <p><br/>🗣 Just visit my LinkedIn profile https://ksana.in/mzp.in to get all required information about me.</p>
 </details>
 
 <details>
     <summary>🖼️ Where can we get your latest photo?</summary>
-    <p><br/>🗣 You can download my latest photo profile in <a href="https://github.com/mazipan/talks/tree/master/photo">photo/</a></p>
+    <p><br/>🗣 You can download my latest photo profile in the <a href="https://github.com/mazipan/talks/tree/master/photo">photo/</a> directory</p>
 </details>
 
 <details>
     <summary>💻 Can we share the presentation deck?</summary>
-    <p><br/>🗣 Yes, You can. Most of my deck available on https://speakerdeck.com/mazipan</p>
+    <p><br/>🗣 Yes, You can. Most of my decks are publicly available on https://speakerdeck.com/mazipan</p>
 </details>
 
 <details>
     <summary>💸 Do we need to pay you for giving a talk?</summary>
-    <p><br/>🗣 No, you don't need. But when I need to travel to your area, you need to cover all my travel costs.</p>
+    <p><br/>🗣 No, you don't need. But if I need to travel to your area, you may need to cover the travel costs.</p>
 </details>
 
 <details>
     <summary>🗓 After got an agreement, what things we should do?</summary>
-    <p><br/>🗣 Create a calendar invitation to my email.</p>
+    <p><br/>🗣 Create a calendar invitation to my email to reserve my time, do not forget to add all additional information I need to know in the description.</p>
 </details>
 
 ## 👋 Contact me
