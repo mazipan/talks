@@ -5,7 +5,7 @@ Hi, I am **Irfan Maulana**, also known as mazipan.
 A frontend developer for almost 10 years of experience. 
 My talks are covering about web performance topic, web development, testing, and a generic career advice from my own perspective.
 
-## 🤝 Invite me
+## 🤝 How to invite me?
 
 You can invite me to giving a talk in your event by sending an email to [mazipanneh@gmail.com](mailto:mazipanneh@gmail.com).
 
@@ -16,7 +16,7 @@ Don't forget to give me a clear information about your event, including (but not
 - The topic you want me to talk about
 - The event date/schedule
 
-## ❓ FAQ
+## ❓ Additional FAQs
 
 Expand to see the answer.
 
@@ -45,11 +45,10 @@ Expand to see the answer.
     <p><br/>🗣 Create a calendar invitation to my email.</p>
 </details>
 
-## 👋 Contacts
+## 👋 Contact me
 
 + 📧 Email    : [mazipanneh@gmail.com](mailto:mazipanneh@gmail.com)
-+ 💬 Telegram : [@mazipan](https://t.me/mazipan)
-+ 🐦 Twitter  : [@Maz_Ipan](https://twitter.com/Maz_Ipan)
++ 🐦 Twitter  : DM to [@Maz_Ipan](https://twitter.com/Maz_Ipan)
 
 ## Template
 
