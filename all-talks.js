@@ -1,4 +1,4 @@
-export default {
+const talks = {
   "2016": [
     {
       "id": "femalegeeklaunchingsistertosisterprogram",
@@ -445,3 +445,7 @@ export default {
     }
   ]
 }
+    
+    export default talks;
+    
+    
