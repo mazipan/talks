@@ -444,8 +444,8 @@ const talks = {
       "slide": "https://speakerdeck.com/mazipan/membuat-website-zaman-sekarang"
     }
   ]
-}
+};
     
-    export default talks;
+export default talks;
     
     

@@ -444,4 +444,5 @@ module.exports = {
       "slide": "https://speakerdeck.com/mazipan/membuat-website-zaman-sekarang"
     }
   ]
-}
+};
+    
