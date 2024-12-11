@@ -443,5 +443,18 @@
       ],
       "slide": "https://speakerdeck.com/mazipan/membuat-website-zaman-sekarang"
     }
+  ],
+  "2024": [
+    {
+      "id": "opentechsummitjakartabyfossasia",
+      "event": "Open Tech Summit Jakarta by FOSSASIA",
+      "topic": "Panduan untuk mempublikasikan kode ke publik",
+      "date": "Nov 25, 2024",
+      "place": "Universitas Atma Jaya",
+      "link": [
+        "https://www.linkedin.com/posts/fossasia_opentechsummit-jakarta-opensource-activity-7238387270523699201-CYEV?utm_source=share&utm_medium=member_desktop"
+      ],
+      "slide": "https://speakerdeck.com/mazipan/panduan-untuk-mempublikasikan-kode-ke-publik"
+    }
   ]
 }
