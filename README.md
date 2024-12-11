@@ -64,6 +64,16 @@ Expand to see the answer.
 
 ## 🙌 Tech talks (in chronological order)
 
+### 2024
+
+#### Open Tech Summit Jakarta by FOSSASIA
+
+- Topic: Panduan untuk mempublikasikan kode ke publik
+- Date: Nov 25, 2024
+- Location: Universitas Atma Jaya
+- Event Link: [here](https://www.linkedin.com/posts/fossasia_opentechsummit-jakarta-opensource-activity-7238387270523699201-CYEV?utm_source=share&utm_medium=member_desktop)
+- Slide: [here](https://speakerdeck.com/mazipan/panduan-untuk-mempublikasikan-kode-ke-publik)
+
 ### 2022
 
 #### PHPID Online Learning 
