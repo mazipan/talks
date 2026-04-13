@@ -22,7 +22,7 @@ Expand to see the answer.
 
 <details>
     <summary>📒 Can we get your resume?</summary>
-    <p><br/>🗣 Just visit my LinkedIn profile https://ksana.in/mzp.in to get all required information about me.</p>
+    <p><br/>🗣 Just visit my LinkedIn profile https://dub.sh/mzp.in to get all required information about me.</p>
 </details>
 
 <details>
