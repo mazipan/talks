@@ -47,7 +47,7 @@ Expand to see the answer.
 
 ## 👋 Contact me
 
-+ 📧 Email: [mazipanneh@gmail.com](mailto:mazipanneh@gmail.com)
++ 📧 Email: [mazipanneh@gmail.com](mailto:mazipanneh+talk@gmail.com)
 + 🐦 Twitter: [@Maz_Ipan](https://twitter.com/Maz_Ipan)
 + 📸 Instagram: [@maz_ipan](https://instagram.com/maz_ipan)
 
