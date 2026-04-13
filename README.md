@@ -7,7 +7,7 @@ My talks are covering about web performance topic, web development, testing, and
 
 ## 🤝 How to invite me?
 
-You can invite me to giving a talk in your event by sending an email to [mazipanneh@gmail.com](mailto:mazipanneh@gmail.com).
+You can invite me to giving a talk in your event by sending an email to [mazipanneh@gmail.com](mailto:mazipanneh+talk@gmail.com).
 
 Don't forget to give me a clear information about your event, including (but not limited):
 
