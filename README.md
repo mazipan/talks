@@ -47,9 +47,9 @@ Expand to see the answer.
 
 ## 👋 Contact me
 
-+ 📧 Email    : [mazipanneh@gmail.com](mailto:mazipanneh@gmail.com)
-+ 🐦 Twitter  : DM to [@Maz_Ipan](https://twitter.com/Maz_Ipan)
-+ 📸 Instagram: DM to [@maz_ipan](https://instagram.com/maz_ipan)
++ 📧 Email: [mazipanneh@gmail.com](mailto:mazipanneh@gmail.com)
++ 🐦 Twitter: [@Maz_Ipan](https://twitter.com/Maz_Ipan)
++ 📸 Instagram: [@maz_ipan](https://instagram.com/maz_ipan)
 
 ## Template
 
